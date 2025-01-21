@@ -2,14 +2,15 @@ import { initializeApp } from 'firebase/app';
 import { getDatabase } from 'firebase/database';
 import { getAnalytics } from "firebase/analytics";
 
+
 const firebaseConfig = {
-    apiKey: "AIzaSyAeOfwDEKwl_MbMlmWNeQV_JjnYtCWziig",
-    authDomain: "portfolio-fytech.firebaseapp.com",
-    projectId: "portfolio-fytech",
-    storageBucket: "portfolio-fytech.firebasestorage.app",
-    messagingSenderId: "121157268163",
-    appId: "1:121157268163:web:2a77ad140d5a4299cce876",
-    measurementId: "G-ZS907GR9WD"
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "default-api-key",
+    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || "default-auth-domain",
+    projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "default-project-id",
+    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || "default-storage-bucket",
+    messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "default-messaging-sender-id",
+    appId: import.meta.env.VITE_FIREBASE_APP_ID || "default-app-id",
+    measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID || "default-measurement-id"
 };
 
 const app = initializeApp(firebaseConfig);
