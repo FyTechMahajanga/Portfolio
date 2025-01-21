@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "blog": "Blogue",
+    "formations": "Formations"
+  },
+  "home": {
+    "hero": {
+      "title": "Votre Partenaire Digital à Mahajanga",
+      "subtitle": "Solutions numériques innovantes pour propulser votre succès",
+      "cta": "Découvrir nos services"
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Solutions digitales complètes pour vos besoins",
+      "items": {
+        "training": {
+          "title": "Formation Professionnelle",
+          "description": "Des formations adaptées aux besoins des entreprises et des particuliers"
+        },
+        "solutions": {
+          "title": "Solutions Sur Mesure",
+          "description": "Développement de solutions logicielles personnalisées"
+        },
+        "consulting": {
+          "title": "Conseil Technologique",
+          "description": "Accompagnement dans votre transformation digitale"
+        },
+        "development": {
+          "title": "Développement Web & Mobile",
+          "description": "Création d'applications web et mobiles performantes"
+        }
+      }
+    },
+    "stats": {
+      "title": "À Propos de Nous",
+      "subtitle": "Une équipe passionnée à votre service",
+      "items": {
+        "expertise": {
+          "number": "3+",
+          "label": "ans d'expertise"
+        },
+        "projects": {
+          "number": "10+",
+          "label": "projets réalisés"
+        },
+        "clients": {
+          "number": "20+",
+          "label": "clients satisfaits"
+        },
+        "trainings": {
+          "number": "20+",
+          "label": "formations dispensées"
+        }
+      }
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "subtitle": "Des experts passionnés par la technologie"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions professionnelles pour tous vos besoins numériques",
+    "categories": {
+      "web": "Services Web & Mobile",
+      "professional": "Services Professionnels"
+    },
+    "items": {
+      "mockup": {
+        "title": "Design de Maquettes Web & App",
+        "description": "Conception de maquettes professionnelles pour vos projets web et mobile",
+        "features": {
+          "wireframes": "Wireframes haute fidélité",
+          "responsive": "Design responsive",
+          "prototypes": "Prototypes interactifs",
+          "styleguide": "Guide de style"
+        },
+        "price": "À partir de 200 000 Ar"
+      }
+    }
+  },
+  "formations": {
+    "title": "Nos Formations",
+    "subtitle": "Développez vos compétences avec nos formations professionnelles",
+    "categories": {
+      "design": "Design",
+      "development": "Développement",
+      "marketing": "Marketing Digital",
+      "office": "Outils Bureautiques"
+    },
+    "items": {
+      "uiux": {
+        "title": "Design UI/UX",
+        "description": "Maîtrisez les principes du design d'interface et de l'expérience utilisateur",
+        "duration": "60 heures",
+        "price": "300 000 Ar"
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog & Actualités",
+    "subtitle": "Découvrez nos derniers articles sur la technologie et le numérique",
+    "readMore": "Lire la suite",
+    "articles": {
+      "digital": {
+        "title": "L'importance de la transformation digitale pour les entreprises malgaches",
+        "excerpt": "Découvrez comment la transformation digitale peut révolutionner votre entreprise et améliorer votre compétitivité sur le marché local et international.",
+        "author": "Jean Paul",
+        "readTime": "5 min de lecture"
+      },
+      "webdev": {
+        "title": "Les tendances du développement web en 2024",
+        "excerpt": "Explorez les dernières tendances en matière de développement web et découvrez comment les intégrer dans vos projets.",
+        "author": "Marie Rakoto",
+        "readTime": "4 min de lecture"
+      },
+      "training": {
+        "title": "Comment choisir la bonne formation en développement",
+        "excerpt": "Guide complet pour vous aider à choisir la formation en développement qui correspond le mieux à vos objectifs professionnels.",
+        "author": "Sarah Anderson",
+        "readTime": "6 min de lecture"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages Clients",
+    "subtitle": "Découvrez ce que nos clients disent de nous",
+    "quotes": {
+      "first": {
+        "content": "Le programme de formation digitale de FŸ-TECH a complètement transformé les capacités de notre équipe. Leur approche pratique et leur expertise ont rendu les concepts complexes accessibles.",
+        "author": "Marie Rakoto",
+        "role": "Directrice RH",
+        "company": "Tech Corp Madagascar"
+      },
+      "second": {
+        "content": "La solution logicielle sur mesure développée par FŸ-TECH a optimisé nos opérations et augmenté notre efficacité de 40%. L'expertise et le professionnalisme de leur équipe ont dépassé nos attentes.",
+        "author": "Jean Paul",
+        "role": "Directeur des Opérations",
+        "company": "Logistics Plus"
+      },
+      "third": {
+        "content": "La collaboration avec FŸ-TECH a été transformative pour notre entreprise. Leurs conseils techniques nous ont aidés à naviguer dans la transformation digitale en toute simplicité.",
+        "author": "Sarah Anderson",
+        "role": "PDG",
+        "company": "StartUp MG"
+      }
+    }
+  },
+  "footer": {
+    "description":"Votre passerelle vers une maîtrise digitale de pointe",
+    "quickLinks":"Liens",
+    "contact":"Contact",
+    "newsletters":"Lettres d'information",
+    "emailPlaceholder":"E-mail",
+    "subscribe":"S'abonner",
+    "rights":"droits",
+    "newsletter": {
+      "success": "Inscription réussie !",
+      "error": "Erreur lors de l'inscription",
+      "loading": "Inscription en cours..."
+    }
+  },
+  "about":{
+    "title":"À propos de nous",
+    "subtitle":"Nous offrons des services numériques et des formations de pointe dans le domaine d'informatique.",
+    "headtitle":"Departement de Nell'Faa Groupe",
+    "paragraph1":"Fÿ-Tech Mahajanga est fier de faire partie du Groupe Nell'Faa, un conglomérat leader à Madagascar. En tant que membre de ce groupe prestigieux, nous exploitons une expertise et des ressources partagées pour fournir des solutions numériques et des services de formation exceptionnels à nos clients.",
+    "paragraph2":"L'engagement du Nell'Faa Groupe en faveur de l'excellence et de l'innovation s'aligne parfaitement avec notre mission de démocratiser l'accès aux compétences numériques et d'accompagner les organisations dans leur parcours de transformation numérique.",
+    "mission":{
+      "title":"Mission",
+      "content":"Transformer Mahajanga en un hub d'innovation technologique en fournissant des formations et des services technologiques personnalisés."
+    },
+    "vision":{
+      "title":"Vision",
+      "content":"Devenir un leader reconnu dans le domaine des technologies innovantes à Mahajanga"
+    },
+    "values":{
+      "title":"Valeurs",
+      "excellence":{
+        "title":"Excellence",
+        "description":"Efficacité des processus"
+      },
+      "collaboration":{
+        "title":"Collaboration",
+        "description":"Partenariats et alliances stratégiques"
+      },
+      "innovation":{
+        "title":"Innovation",
+        "description":" Innovation et développement de nouveaux produits/services"
+      }
+    },
+    "contact":{
+      "title":"Contact",
+      "address":"Mahajanga I, Mangarivotra (près de Population Mangarivotra), Mahajanga, Madagascar",
+      "phone":"+261 329719391 / +261 329742598",
+      "email":"fytech0823@gmail.com",
+      "hours":"08h30 - 12h30 / 14h30 - 18h00 (6 / 7) jours"
+    }
+  }
+}

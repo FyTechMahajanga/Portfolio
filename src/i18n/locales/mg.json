@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Fandraisana",
+    "services": "Tolotra",
+    "about": "Momba anay",
+    "testimonials": "Fijoroana",
+    "contact": "Fifandraisana",
+    "blog": "Blog",
+    "formations": "Fampiofanana"
+  },
+  "home": {
+    "hero": {
+      "title": "Mpiara-miasa ara-dijitaly ao Mahajanga",
+      "subtitle": "Vahaolana ara-dijitaly miavaka hampandrosoana ny fahombiazanao",
+      "cta": "Jereo ny tolotra"
+    },
+    "services": {
+      "title": "Ny Tolotra",
+      "subtitle": "Vahaolana ara-dijitaly feno ho an'ny filànao",
+      "items": {
+        "training": {
+          "title": "Fampiofanana Ara-drafitra",
+          "description": "Fampiofanana natokana ho an'ny orinasa sy ny tsirairay"
+        },
+        "solutions": {
+          "title": "Vahaolana Manokana",
+          "description": "Fampandrosoana vahaolana rindrambaiko manokana"
+        },
+        "consulting": {
+          "title": "Torohevitra Ara-teknolojia",
+          "description": "Fanampiana amin'ny fanovana nomerika"
+        },
+        "development": {
+          "title": "Fampandrosoana Web & Mobile",
+          "description": "Famoronana rindranasa web sy finday mahomby"
+        }
+      }
+    },
+    "stats": {
+      "title": "Momba Anay",
+      "subtitle": "Ekipa feno finiavana hanompo anao",
+      "items": {
+        "expertise": {
+          "number": "3+",
+          "label": "taona traikefa"
+        },
+        "projects": {
+          "number": "10+",
+          "label": "tetikasa vita"
+        },
+        "clients": {
+          "number": "20+",
+          "label": "mpanjifa afa-po"
+        },
+        "trainings": {
+          "number": "20+",
+          "label": "fampiofanana natao"
+        }
+      }
+    },
+    "team": {
+      "title": "Ny Ekipanay",
+      "subtitle": "Manam-pahaizana feno finiavana amin'ny teknolojia"
+    }
+  },
+  "services": {
+    "title": "Ireo Tolotra",
+    "subtitle": "Vahaolana ara-drafitra ho an'ny filàna rehetra ara-nomerika",
+    "categories": {
+      "web": "Tolotra Web & Mobile",
+      "professional": "Tolotra Ara-drafitra"
+    },
+    "items": {
+      "mockup": {
+        "title": "Famolavolana endrika Web & App",
+        "description": "Famolavolana endrika ara-drafitra ho an'ny tetikasa web sy finday",
+        "features": {
+          "wireframes": "Wireframes tsara kalitao",
+          "responsive": "Endrika mifanaraka",
+          "prototypes": "Prototype azo ampiasaina",
+          "styleguide": "Torolalana momba ny endrika"
+        },
+        "price": "Manomboka amin'ny 200 000 Ar"
+      }
+    }
+  },
+  "formations": {
+    "title": "Ireo Fampiofanana",
+    "subtitle": "Ampitomboy ny fahaiza-manao miaraka amin'ny fampiofanana ara-drafitra",
+    "categories": {
+      "design": "Design",
+      "development": "Fampandrosoana",
+      "marketing": "Marketing Nomerika",
+      "office": "Fitaovana Biraotika"
+    },
+    "items": {
+      "uiux": {
+        "title": "Design UI/UX",
+        "description": "Mahafeheza ny fototra momba ny famolavolana interface sy ny traikefa mpampiasa",
+        "duration": "60 ora",
+        "price": "300 000 Ar"
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog & Vaovao",
+    "subtitle": "Jereo ny lahatsoratra farany momba ny teknolojia sy ny nomerika",
+    "readMore": "Hamaky bebe kokoa",
+    "articles": {
+      "digital": {
+        "title": "Ny maha-zava-dehibe ny fanovana nomerika ho an'ny orinasa malagasy",
+        "excerpt": "Fantaro ny fomba ahafahan'ny fanovana nomerika manova ny orinasanao sy manatsara ny fahaiza-mifaninana amin'ny tsena eto an-toerana sy iraisam-pirenena.",
+        "author": "Jean Paul",
+        "readTime": "5 min famakiana"
+      },
+      "webdev": {
+        "title": "Ny fironana amin'ny fampandrosoana tranokala amin'ny 2024",
+        "excerpt": "Jereo ny fironana farany amin'ny fampandrosoana tranokala ary fantaro ny fomba hampidirana azy ireo ao amin'ny tetikasanao.",
+        "author": "Marie Rakoto",
+        "readTime": "4 min famakiana"
+      },
+      "training": {
+        "title": "Ahoana ny fomba fisafidianana ny fampiofanana mifanaraka amin'ny filànao",
+        "excerpt": "Torolalana feno hanampy anao hifidy ny fampiofanana mifanaraka amin'ny tanjonao ara-drafitra.",
+        "author": "Sarah Anderson",
+        "readTime": "6 min famakiana"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Fijoroana Vavolombelon'ny Mpanjifa",
+    "subtitle": "Jereo izay lazain'ny mpanjifanay",
+    "quotes": {
+      "first": {
+        "content": "Ny fandaharan'asan'ny FŸ-TECH dia nanova tanteraka ny fahafahan'ny ekipanay. Ny fomba fiasany sy ny fampianarana nataon'ny manam-pahaizana dia nahatonga ny foto-kevitra sarotra ho mora azo.",
+        "author": "Marie Rakoto",
+        "role": "Tale miandraikitra ny Mpiasa",
+        "company": "Tech Corp Madagascar"
+      },
+      "second": {
+        "content": "Ny vahaolana rindrambaiko nataon'ny FŸ-TECH dia nampitombo ny fahombiazanay hatramin'ny 40%. Ny fahaizan'ny ekipa sy ny fahaiza-manaony dia nihoatra ny andrasanay.",
+        "author": "Jean Paul",
+        "role": "Tale mpanatanteraka",
+        "company": "Logistics Plus"
+      },
+      "third": {
+        "content": "Ny fiaraha-miasa tamin'ny FŸ-TECH dia nanova ny orinasanay. Ny torohevitra ara-teknikan'izy ireo dia nanampy anay tamin'ny fanovana nomerika.",
+        "author": "Sarah Anderson",
+        "role": "Tale jeneraly",
+        "company": "StartUp MG"
+      }
+    }
+  },
+  "footer": {
+    "description":"Ny vavahadinao mankany amin'ny Digital Mastery",
+    "quickLinks":"Rohy",
+    "contact":"Contact",
+    "newsletters":"Gazety",
+    "emailPlaceholder":"Mailaka",
+    "subscribe":"Raiso amin ny",
+    "rights":"zo",
+    "newsletter": {
+      "success": "Voasoratra soa aman-tsara!",
+      "error": "Nisy olana tamin'ny fisoratana anarana",
+      "loading": "Misoratra anarana..."
+    }
+  },
+  "about":{
+    "title":"Momba anay",
+    "subtitle":"Manolotra tolotra nomerika sy fiofanana amin'ny sehatry ny IT izahay.",
+    "headtitle":"Departemantan'ny Vondrona Nell'Faa",
+    "paragraph1":"Fÿ-Tech Mahajanga dia rehareha ho anisan'ny Vondrona Nell'Faa, orinasa lehibe eto Madagasikara. Amin'ny maha-mpikambana antsika amin'ity vondrona malaza ity, dia mampiasa fahaiza-manao sy loharano iraisana izahay mba hanomezana vahaolana nomerika miavaka sy serivisy fanofanana ho an'ny mpanjifanay.",
+    "paragraph2":"Ny fanoloran-tenan'ny Vondrona Nell'Faa amin'ny fahaiza-manaony sy ny fanavaozana dia mifanaraka tsara amin'ny iraka ataontsika amin'ny demokrasia ny fidirana amin'ny fahaiza-manao nomerika sy ny fanohanana ireo fikambanana amin'ny diany fanovana nomerika.",
+    "mission":{
+      "title":"Fanendrena",
+      "content":"Hanova an'i Mahajanga ho ivon'ny fanavaozana ny teknolojia amin'ny fanomezana fiofanana sy tolotra ara-teknolojia manokana."
+    },
+    "vision":{
+      "title":"Vina",
+      "content":"Lasa mpitarika fanta-daza eo amin’ny sehatry ny teknolojia vaovao eto Mahajanga"
+    },
+    "values":{
+      "title":"TARI-DALANA",
+      "excellence":{
+        "title":"Fahatsarany",
+        "description":"Ny fahombiazan'ny dingana"
+      },
+      "collaboration":{
+        "title":"Fiaraha-miasa",
+        "description":"Fiaraha-miasa sy fiaraha-miasa stratejika"
+      },
+      "innovation":{
+        "title":"Zava-baovao",
+        "description":"Fanavaozana sy fampivoarana vokatra/serivisy vaovao"
+      }
+    },
+    "contact":{
+      "title":"Contact",
+      "address":"Mahajanga I, Mangarivotra (près de Population Mangarivotra), Mahajanga, Madagascar",
+      "phone":"+261 329719391 / +261 329742598",
+      "email":"fytech0823@gmail.com",
+      "hours":"08h30 - 12h30 / 14h30 - 18h00 (6 / 7) andro"
+    }
+  }
+}

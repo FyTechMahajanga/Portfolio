@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "blog": "Blog",
+    "formations": "Training"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Digital Partner in Mahajanga",
+      "subtitle": "Innovative digital solutions to propel your success",
+      "cta": "Discover our services"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive digital solutions for your needs",
+      "items": {
+        "training": {
+          "title": "Professional Training",
+          "description": "Training adapted to business and individual needs"
+        },
+        "solutions": {
+          "title": "Custom Solutions",
+          "description": "Development of customized software solutions"
+        },
+        "consulting": {
+          "title": "Technology Consulting",
+          "description": "Support in your digital transformation"
+        },
+        "development": {
+          "title": "Web & Mobile Development",
+          "description": "Creation of high-performance web and mobile applications"
+        }
+      }
+    },
+    "stats": {
+      "title": "About Us",
+      "subtitle": "A passionate team at your service",
+      "items": {
+        "expertise": {
+          "number": "3+",
+          "label": "years of expertise"
+        },
+        "projects": {
+          "number": "10+",
+          "label": "completed projects"
+        },
+        "clients": {
+          "number": "20+",
+          "label": "satisfied clients"
+        },
+        "trainings": {
+          "number": "20+",
+          "label": "trainings delivered"
+        }
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Experts passionate about technology"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional solutions for all your digital needs",
+    "categories": {
+      "web": "Web & Mobile Services",
+      "professional": "Professional Services"
+    },
+    "items": {
+      "mockup": {
+        "title": "Web & App Mockup Design",
+        "description": "Design of professional mockups for your web and mobile projects",
+        "features": {
+          "wireframes": "High-fidelity wireframes",
+          "responsive": "Responsive design",
+          "prototypes": "Interactive prototypes",
+          "styleguide": "Style guide"
+        },
+        "price": "From $200"
+      }
+    }
+  },
+  "formations": {
+    "title": "Our Training Programs",
+    "subtitle": "Develop your skills with our professional training",
+    "categories": {
+      "design": "Design",
+      "development": "Development",
+      "marketing": "Digital Marketing",
+      "office": "Office Tools"
+    },
+    "items": {
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "Master interface design and user experience principles",
+        "duration": "60 hours",
+        "price": "$300"
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog & News",
+    "subtitle": "Discover our latest articles on technology and digital",
+    "readMore": "Read more",
+    "articles": {
+      "digital": {
+        "title": "The Importance of Digital Transformation for Malagasy Companies",
+        "excerpt": "Discover how digital transformation can revolutionize your business and improve your competitiveness in local and international markets.",
+        "author": "Jean Paul",
+        "readTime": "5 min read"
+      },
+      "webdev": {
+        "title": "Web Development Trends in 2024",
+        "excerpt": "Explore the latest trends in web development and learn how to integrate them into your projects.",
+        "author": "Marie Rakoto",
+        "readTime": "4 min read"
+      },
+      "training": {
+        "title": "How to Choose the Right Development Training",
+        "excerpt": "Complete guide to help you choose the development training that best matches your professional goals.",
+        "author": "Sarah Anderson",
+        "readTime": "6 min read"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Discover what our clients say about us",
+    "quotes": {
+      "first": {
+        "content": "FŸ-TECH's digital training program completely transformed our team's capabilities. Their hands-on approach and expert instruction made complex concepts accessible.",
+        "author": "Marie Rakoto",
+        "role": "HR Director",
+        "company": "Tech Corp Madagascar"
+      },
+      "second": {
+        "content": "The custom software solution developed by FŸ-TECH streamlined our operations and increased efficiency by 40%. Their team's expertise and professionalism exceeded our expectations.",
+        "author": "Jean Paul",
+        "role": "Operations Director",
+        "company": "Logistics Plus"
+      },
+      "third": {
+        "content": "Working with FŸ-TECH has been transformative for our business. Their tech consulting helped us navigate digital transformation seamlessly.",
+        "author": "Sarah Anderson",
+        "role": "CEO",
+        "company": "StartUp MG"
+      }
+    }
+  },
+  "footer": {
+    "description":"Your Gateway to Cutting-Edge Didital Mastery",
+    "quickLinks":"Links",
+    "contact":"Contact",
+    "newsletters":"Newsletters",
+    "emailPlaceholder":"Email",
+    "subscribe":"Subscribe",
+    "rights":"rights",
+    "newsletter": {
+      "success": "Successfully subscribed!",
+      "error": "Error subscribing",
+      "loading": "Subscribing..."
+    }
+  },
+  "about":{
+    "title":"About Us",
+    "subtitle":"We offer cutting-edge digital services and training in the field of IT.",
+    "headtitle":"Part of Nell'Faa Group",
+    "paragraph1":"Fÿ-Tech Mahajanga is proud to be a part of the Nell'Faa Group, a leading conglomerate in Madagascar. As a member of this prestigious group, we leverage shared expertise and resources to deliver exceptional digital solutions and training services to our clients.",
+    "paragraph2":"The Nell'Faa Group's commitment to excellence and innovation aligns perfectly with our mission to democratize access to digital skills and support organizations in their digital transformation journey.",
+    "mission":{
+      "title":"Assignment",
+      "content":"Transform Mahajanga into a technology innovation hub by providing personalized technology training and services."
+    },
+    "vision":{
+      "title":"Vision",
+      "content":"Becoming a recognized leader in the field of innovative technologies in Mahajanga"
+    },
+    "values":{
+      "title":"values",
+      "excellence":{
+        "title":"Excellency",
+        "description":"Process efficiency"
+      },
+      "collaboration":{
+        "title":"Collaboration",
+        "description":"Partnerships and strategic alliances"
+      },
+      "innovation":{
+        "title":"Innovation",
+        "description":"Innovation and development of new products/services"
+      }
+    },
+    "contact":{
+      "title":"Contact",
+      "address":"Mahajanga I, Mangarivotra (près de Population Mangarivotra), Mahajanga, Madagascar",
+      "phone":"+261 329719391 / +261 329742598",
+      "email":"fytech0823@gmail.com",
+      "hours":"08h30 - 12h30 AM / 14h30 - 18h00 PM (6 / 7) days"
+    }
+  }
+}

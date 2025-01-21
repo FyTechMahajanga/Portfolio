@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "newsletters": {
+      ".read": false,
+      ".write": true
+    }
+  }
+} 
