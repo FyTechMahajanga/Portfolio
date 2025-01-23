@@ -67,21 +67,28 @@
     "title": "Ireo Tolotra",
     "subtitle": "Vahaolana ara-drafitra ho an'ny filàna rehetra ara-nomerika",
     "categories": {
-      "web": "Tolotra Web & Mobile",
+      "graphique": "Famolavolana sary sy UX/UI",
       "professional": "Tolotra Ara-drafitra"
     },
     "items": {
       "mockup": {
-        "title": "Famolavolana endrika Web & App",
-        "description": "Famolavolana endrika ara-drafitra ho an'ny tetikasa web sy finday",
+        "title": "Famoronana hita maso",
+        "description": "Na amin'ny alalan'ny endrika kanto na sanganasa be pitsiny, dia mitantara tantara tsy manam-paharoa izy ireo, ka mamela marika tsy hay hadinoina ao an-tsain'ny mpijery.",
         "features": {
-          "wireframes": "Wireframes tsara kalitao",
-          "responsive": "Endrika mifanaraka",
-          "prototypes": "Prototype azo ampiasaina",
-          "styleguide": "Torolalana momba ny endrika"
+          "logo": "Famoronana Logo",
+          "cartevisite": "Famolavolana karatra fandraharahana",
+          "flyer": "Flyer Design",
+          "affiche": "Famolavolana afisy",
+          "brochure": "Famolavolana bokikely",
+          "depliant": "Famolavolana trakta",
+          "bannierepublicitaire": "Famoronana sora-baventy dokam-barotra",
+          "redactionpublicitaire": "Fanoratra dokam-barotra"
         },
-        "price": "Manomboka amin'ny 200 000 Ar"
+        "price": "Manomboka amin'ny 20 000 Ar"
       }
+    },
+    "cta":{
+      "button":"Mifandraisa aminay"
     }
   },
   "formations": {

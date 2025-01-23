@@ -67,21 +67,28 @@
     "title": "Our Services",
     "subtitle": "Professional solutions for all your digital needs",
     "categories": {
-      "web": "Web & Mobile Services",
+      "graphique": "Graphic design and UX/UI",
       "professional": "Professional Services"
     },
     "items": {
       "mockup": {
-        "title": "Web & App Mockup Design",
-        "description": "Design of professional mockups for your web and mobile projects",
+        "title": "Visual creations",
+        "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "features": {
-          "wireframes": "High-fidelity wireframes",
-          "responsive": "Responsive design",
-          "prototypes": "Interactive prototypes",
-          "styleguide": "Style guide"
+          "logo": "Logo Creation",
+          "cartevisite": "Business Card Design",
+          "flyer": "Flyer Design",
+          "affiche": "Poster Design",
+          "brochure": "Brochure Design",
+          "depliant": "Leaflet Design",
+          "bannierepublicitaire": "Creation of advertising banner",
+          "redactionpublicitaire": "Advertising writing"
         },
-        "price": "From $200"
+        "price": "From $4,26"
       }
+    },
+    "cta":{
+      "button":"Contact Us"
     }
   },
   "formations": {

@@ -67,21 +67,28 @@
     "title": "Nos Services",
     "subtitle": "Des solutions professionnelles pour tous vos besoins numériques",
     "categories": {
-      "web": "Services Web & Mobile",
+      "graphique": "Conception graphique et UX/UI",
       "professional": "Services Professionnels"
     },
     "items": {
       "mockup": {
-        "title": "Design de Maquettes Web & App",
-        "description": "Conception de maquettes professionnelles pour vos projets web et mobile",
+        "title": "Créations visuelles",
+        "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "features": {
-          "wireframes": "Wireframes haute fidélité",
-          "responsive": "Design responsive",
-          "prototypes": "Prototypes interactifs",
-          "styleguide": "Guide de style"
+          "logo": "Création de Logos",
+          "cartevisite": "Design de Carte de Visite",
+          "flyer": "Conception de Flyer",
+          "affiche": "Design d'Affiche",
+          "brochure": "Conception de Brochure",
+          "depliant": "Conception de Depliant",
+          "bannierepublicitaire": "Création de bannière publicitaire",
+          "redactionpublicitaire": "Rédaction publicitaire"
         },
-        "price": "À partir de 200 000 Ar"
+        "price": "À partir de 4,10€"
       }
+    },
+    "cta":{
+      "button":"Contactez-nous"
     }
   },
   "formations": {
