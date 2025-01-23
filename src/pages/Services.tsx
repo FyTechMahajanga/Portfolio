@@ -29,28 +29,17 @@ const Services = () => {
             price: t('services.items.mockup.price')
           },
           {
-            icon: <Code className="w-8 h-8" />,
-            title: t('services.web.website.title', 'Website Creation'),
-            description: t('services.web.website.description', 'Development of modern and performant websites.'),
+            icon: <Layout className="w-8 h-8" />,
+            title: t('services.items.mockup.title1'),
+            description: t('services.items.mockup.description1'),
             features: [
-              t('services.web.website.features.design', 'Custom design'),
-              t('services.web.website.features.responsive', 'Responsive design'),
-              t('services.web.website.features.seo', 'SEO optimization'),
-              t('services.web.website.features.admin', 'Admin interface')
+              t('services.items.mockup.features1.maquettesweb'),
+              t('services.items.mockup.features1.maquettemobile'),
+              t('services.items.mockup.features1.maquettegraphique'),
+              t('services.items.mockup.features1.wireframes'),
+              t('services.items.mockup.features1.prototypes')
             ],
-            price: t('services.web.website.price', 'From 500,000 Ar')
-          },
-          {
-            icon: <Smartphone className="w-8 h-8" />,
-            title: t('services.web.mobile.title', 'Mobile Development'),
-            description: t('services.web.mobile.description', 'Native and cross-platform mobile applications.'),
-            features: [
-              t('services.web.mobile.features.platforms', 'iOS and Android'),
-              t('services.web.mobile.features.ui', 'Mobile UI/UX'),
-              t('services.web.mobile.features.performance', 'Optimized performance'),
-              t('services.web.mobile.features.maintenance', 'Continuous maintenance')
-            ],
-            price: t('services.web.mobile.price', 'From 800,000 Ar')
+            price: t('services.items.mockup.price1')
           }
         ]
     },

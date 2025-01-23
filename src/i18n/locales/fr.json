@@ -73,7 +73,9 @@
     "items": {
       "mockup": {
         "title": "Créations visuelles",
+        "title1":"Conceptions numérique",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
+        "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -84,7 +86,15 @@
           "bannierepublicitaire": "Création de bannière publicitaire",
           "redactionpublicitaire": "Rédaction publicitaire"
         },
-        "price": "À partir de 4,10€"
+        "features1": {
+          "maquettesweb":"Création de maquettes web",
+          "maquettemobile":"Création de maquettes d'applications mobiles",
+          "maquettegraphique":"Création de maquettes graphiques",
+          "wireframes":"Création de wireframes",
+          "prototypes":"Création de prototypes interactifs"
+        },
+        "price": "À partir de 4,10€",
+        "price1":"À partir de 20,51€"
       }
     },
     "cta":{

@@ -73,7 +73,9 @@
     "items": {
       "mockup": {
         "title": "Visual creations",
+        "title1":"Digital designs",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
+        "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -84,7 +86,15 @@
           "bannierepublicitaire": "Creation of advertising banner",
           "redactionpublicitaire": "Advertising writing"
         },
-        "price": "From $4,26"
+        "features1": {
+          "maquettesweb":"Creation of web models",
+          "maquettemobile":"Creation of mobile application mockups",
+          "maquettegraphique":"Creation of graphic models",
+          "wireframes":"Creation of wireframes",
+          "prototypes":"Creation of interactive prototypes"
+        },
+        "price": "From $4,26",
+        "price1":"From $21,32"
       }
     },
     "cta":{

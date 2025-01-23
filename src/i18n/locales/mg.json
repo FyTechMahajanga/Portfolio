@@ -73,7 +73,9 @@
     "items": {
       "mockup": {
         "title": "Famoronana hita maso",
+        "title1":"Famolavolana nomerika",
         "description": "Na amin'ny alalan'ny endrika kanto na sanganasa be pitsiny, dia mitantara tantara tsy manam-paharoa izy ireo, ka mamela marika tsy hay hadinoina ao an-tsain'ny mpijery.",
+        "description1":"Ny endrika dizitaly dia manosika ny fetran'ny famoronana amin'ny alàlan'ny fampifangaroana ny teknolojia sy ny estetika mba hamoronana traikefa ifanakalozan-kevitra sy immersive.",
         "features": {
           "logo": "Famoronana Logo",
           "cartevisite": "Famolavolana karatra fandraharahana",
@@ -84,7 +86,15 @@
           "bannierepublicitaire": "Famoronana sora-baventy dokam-barotra",
           "redactionpublicitaire": "Fanoratra dokam-barotra"
         },
-        "price": "Manomboka amin'ny 20 000 Ar"
+        "features1": {
+          "maquettesweb":"Famoronana modely amin'ny tranonkala",
+          "maquettemobile":"Famoronana mockups fampiharana finday",
+          "maquettegraphique":"Famoronana modely sary",
+          "wireframes":"Famoronana wireframes",
+          "prototypes":"Famoronana prototypes interactive"
+        },
+        "price": "Manomboka amin'ny 20 000 Ar",
+        "price1":"Manomboka amin'ny 100 000 Ar"
       }
     },
     "cta":{
