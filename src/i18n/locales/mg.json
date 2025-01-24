@@ -68,7 +68,8 @@
     "subtitle": "Vahaolana ara-drafitra ho an'ny filàna rehetra ara-nomerika",
     "categories": {
       "graphique": "Famolavolana sary sy UX/UI",
-      "professional": "Vahaolana amin'ny tranonkala manokana"
+      "professional": "Vahaolana amin'ny tranonkala manokana",
+      "maintenance":"Serivisy outsourcing sy fikojakojana IT"
     },
     "items": {
       "mockup": {
@@ -76,10 +77,16 @@
         "title1":"Famolavolana nomerika",
         "title2":"Famoronana Site Showcase",
         "title3":"Famoronana tranokala katalaogy",
+        "title4":"Famoronana tranokala manokana",
+        "title5":"Serivisy outsourcing",
+        "title6":"Serivisy fikojakojana IT",
         "description": "Na amin'ny alalan'ny endrika kanto na sanganasa be pitsiny, dia mitantara tantara tsy manam-paharoa izy ireo, ka mamela marika tsy hay hadinoina ao an-tsain'ny mpijery.",
         "description1":"Ny endrika dizitaly dia manosika ny fetran'ny famoronana amin'ny alàlan'ny fampifangaroana ny teknolojia sy ny estetika mba hamoronana traikefa ifanakalozan-kevitra sy immersive.",
         "description2":"Famolavolana sy fampivoarana tranokala fampirantiana namboarina mba hanasongadinana ny orinasanao na ny tetikasanao.",
         "description3":"Mamolavola sy mamolavola tranokala katalaogy mba hanehoana ny vokatrao na ny serivisinao amin'ny fomba voalamina sy amin'ny antsipiriany.",
+        "description4":"Famolavolana tranokala voatokana tanteraka, natao mba hahafeno ny filanao sy ny tanjonao.",
+        "description5":"Fitantanana outsource ny fotodrafitrasa IT-nao mba hiantohana ny fahombiazana, ny fiarovana ary ny fisian'ny rafitrao.",
+        "description6":"Fanampiana sy fikojakojana tsy tapaka ny fitaovan'ny IT anao mba hiantohana ny fampandehanana azy sy ny faharetany.",
         "features": {
           "logo": "Famoronana Logo",
           "cartevisite": "Famolavolana karatra fandraharahana",
@@ -104,9 +111,42 @@
           "facilitegestion":"Mora ny fitantanana",
           "personnalisation":"Personalization"
         },
+        "features3": {
+          "navigation":"Navigation intuitive",
+          "fichesproduits":"Fiches produits complètes",
+          "avancees":"Fonctionnalités avancées",
+          "responsive":"Design responsive",
+          "simplifiee":"Gestion simplifiée",
+          "optimisationseo":"Optimisation SEO"
+        },
+        "features4": {
+          "analyseconseil":"Famakafakana sy torohevitra",
+          "designunique":"Famolavolana tokana",
+          "specifiques":"endri-javatra manokana",
+          "responsive":"Famolavolana mamaly",
+          "simplifiee":"Fitantanana tsotra",
+          "optimisationseo":"SEO Optimization",
+          "evolutivite":"Scalability"
+        },
+        "features5": {
+          "installation":"Fametrahana sy fanamafisana",
+          "preventive":"Fikarakarana fisorohana",
+          "performance":"Fahombiazana ny fampisehoana",
+          "sauvegarde":"Data backup sy fanarenana"
+        },
+        "features6": {
+          "depannage":"Fikojakojana sy famahana olana",
+          "corrective":"Fikojakojana fanitsiana",
+          "evolutive":"Fikojakojana azo scalable",
+          "misejour":"Fanavaozana rindrambaiko"
+        },
         "price": "Manomboka amin'ny 20 000 Ar",
         "price1":"Manomboka amin'ny 100 000 Ar",
-        "price2":"Manomboka amin'ny 500 000 Ar"
+        "price2":"Manomboka amin'ny 500 000 Ar",
+        "price3":"Manomboka amin'ny 1 000 000 Ar",
+        "price4":"Manomboka amin'ny 730 000 Ar",
+        "price5":"Manomboka amin'ny 20 000 Ar",
+        "price6":"Manomboka amin'ny 20 000 Ar"
       }
     },
     "cta":{

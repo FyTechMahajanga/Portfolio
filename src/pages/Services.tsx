@@ -64,24 +64,58 @@ const Services = () => {
             title: t('services.items.mockup.title3'),
             description: t('services.items.mockup.description3'),
             features: [
-              t('services.professional.photo.features.product', 'Product photos'),
-              t('services.professional.photo.features.corporate', 'Corporate portraits'),
-              t('services.professional.photo.features.events', 'Events'),
-              t('services.professional.photo.features.retouching', 'Photo retouching')
+              t('services.items.mockup.features3.navigation'),
+              t('services.items.mockup.features3.fichesproduits'),
+              t('services.items.mockup.features3.avancees'),
+              t('services.items.mockup.features3.responsive'),
+              t('services.items.mockup.features3.simplifiee'),
+              t('services.items.mockup.features3.optimisationseo')
             ],
-            price: t('services.professional.photo.price', 'From 150,000 Ar')
+            price: t('services.items.mockup.price3')
           },
           {
             icon: <Layout className="w-8 h-8" />,
-            title: t('services.professional.marketing.title', 'Digital Marketing'),
-            description: t('services.professional.marketing.description', 'Marketing strategies for your online presence.'),
+            title: t('services.items.mockup.title4'),
+            description: t('services.items.mockup.description4'),
             features: [
-              t('services.professional.marketing.features.social', 'Social media'),
-              t('services.professional.marketing.features.seo', 'SEO/SEM'),
-              t('services.professional.marketing.features.content', 'Content marketing'),
-              t('services.professional.marketing.features.analytics', 'Data analysis')
+              t('services.items.mockup.features4.analyseconseil'),
+              t('services.items.mockup.features4.designunique'),
+              t('services.items.mockup.features4.specifiques'),
+              t('services.items.mockup.features4.responsive'),
+              t('services.items.mockup.features4.simplifiee'),
+              t('services.items.mockup.features4.optimisationseo'),
+              t('services.items.mockup.features4.evolutivite')
             ],
-            price: t('services.professional.marketing.price', 'From 250,000 Ar')
+            price: t('services.items.mockup.price4')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.maintenance'),
+        services: [
+          {
+            icon: <Laptop className="w-8 h-8" />,
+            title: t('services.items.mockup.title5'),
+            description: t('services.items.mockup.description5'),
+            features: [
+              t('services.items.mockup.features5.installation'),
+              t('services.items.mockup.features5.preventive'),
+              t('services.items.mockup.features5.performance'),
+              t('services.items.mockup.features5.sauvegarde')
+            ],
+            price: t('services.items.mockup.price5')
+          },
+          {
+            icon: <Laptop className="w-8 h-8" />,
+            title: t('services.items.mockup.title6'),
+            description: t('services.items.mockup.description6'),
+            features: [
+              t('services.items.mockup.features6.depannage'),
+              t('services.items.mockup.features6.corrective'),
+              t('services.items.mockup.features6.evolutive'),
+              t('services.items.mockup.features6.misejour')
+            ],
+            price: t('services.items.mockup.price6')
           }
         ]
     }

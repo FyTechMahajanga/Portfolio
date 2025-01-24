@@ -68,7 +68,8 @@
     "subtitle": "Professional solutions for all your digital needs",
     "categories": {
       "graphique": "Graphic design and UX/UI",
-      "professional": "Custom web solutions"
+      "professional": "Custom web solutions",
+      "maintenance":"IT outsourcing and maintenance services"
     },
     "items": {
       "mockup": {
@@ -76,10 +77,16 @@
         "title1":"Digital designs",
         "title2":"Creation of Showcase Sites",
         "title3":"Creation of catalog site",
+        "title4":"Creation of Custom Websites",
+        "title5":"Outsourcing services",
+        "title6":"IT maintenance services",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
         "description3":"Design and development of catalog websites to present your products or services in an organized and detailed manner.",
+        "description4":"Development of fully personalized websites, designed to precisely meet your needs and objectives.",
+        "description5":"Outsourced management of your IT infrastructure to guarantee performance, security and availability of your systems.",
+        "description6":"Assistance and regular maintenance of your IT equipment to guarantee its proper functioning and sustainability.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -104,9 +111,42 @@
           "facilitegestion":"Ease of management",
           "personnalisation":"Personalization"
         },
+        "features3": {
+          "navigation":"Navigation intuitive",
+          "fichesproduits":"Fiches produits complètes",
+          "avancees":"Fonctionnalités avancées",
+          "responsive":"Design responsive",
+          "simplifiee":"Gestion simplifiée",
+          "optimisationseo":"Optimisation SEO"
+        },
+        "features4": {
+          "analyseconseil":"Analysis and advice",
+          "designunique":"Unique design",
+          "specifiques":"Specific features",
+          "responsive":"Design responsive",
+          "simplifiee":"Simplified management",
+          "optimisationseo":"SEO Optimization",
+          "evolutivite":"Scalability"
+        },
+        "features5": {
+          "installation":"Installation and configuration",
+          "preventive":"Preventative maintenance",
+          "performance":"Performance Optimization",
+          "sauvegarde":"Data backup and recovery"
+        },
+        "features6": {
+          "depannage":"Maintenance and troubleshooting",
+          "corrective":"Corrective maintenance",
+          "evolutive":"Scalable maintenance",
+          "misejour":"Software update"
+        },
         "price": "From $4,26",
         "price1":"From $21,32",
-        "price2":"From $106,80"
+        "price2":"From $106,80",
+        "price3":"From $213,60",
+        "price4":"From $156,19",
+        "price5":"From $4,26",
+        "price6":"From $4,26"
       }
     },
     "cta":{
