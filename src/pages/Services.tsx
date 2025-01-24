@@ -47,21 +47,22 @@ const Services = () => {
       title: t('services.categories.professional'),
         services: [
           {
-            icon: <Box className="w-8 h-8" />,
-            title: t('services.professional.modeling.title', '3D Modeling'),
-            description: t('services.professional.modeling.description', 'Creation of 3D models for your projects.'),
+            icon: <Layout className="w-8 h-8" />,
+            title: t('services.items.mockup.title2'),
+            description: t('services.items.mockup.description2'),
             features: [
-              t('services.professional.modeling.features.architectural', 'Architectural modeling'),
-              t('services.professional.modeling.features.product', 'Product design'),
-              t('services.professional.modeling.features.animation', '3D animations'),
-              t('services.professional.modeling.features.rendering', 'Photorealistic rendering')
+              t('services.items.mockup.features2.responsive'),
+              t('services.items.mockup.features2.integrationcontenu'),
+              t('services.items.mockup.features2.optimisationseo'),
+              t('services.items.mockup.features2.facilitegestion'),
+              t('services.items.mockup.features2.personnalisation')
             ],
-            price: t('services.professional.modeling.price', 'From 300,000 Ar')
+            price: t('services.items.mockup.price2')
           },
           {
-            icon: <Camera className="w-8 h-8" />,
-            title: t('services.professional.photo.title', 'Photo Services'),
-            description: t('services.professional.photo.description', 'Professional photography for your business.'),
+            icon: <Layout className="w-8 h-8" />,
+            title: t('services.items.mockup.title3'),
+            description: t('services.items.mockup.description3'),
             features: [
               t('services.professional.photo.features.product', 'Product photos'),
               t('services.professional.photo.features.corporate', 'Corporate portraits'),
@@ -71,7 +72,7 @@ const Services = () => {
             price: t('services.professional.photo.price', 'From 150,000 Ar')
           },
           {
-            icon: <Megaphone className="w-8 h-8" />,
+            icon: <Layout className="w-8 h-8" />,
             title: t('services.professional.marketing.title', 'Digital Marketing'),
             description: t('services.professional.marketing.description', 'Marketing strategies for your online presence.'),
             features: [

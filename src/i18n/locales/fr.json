@@ -68,14 +68,18 @@
     "subtitle": "Des solutions professionnelles pour tous vos besoins numériques",
     "categories": {
       "graphique": "Conception graphique et UX/UI",
-      "professional": "Services Professionnels"
+      "professional": "Solutions web personnalisées"
     },
     "items": {
       "mockup": {
         "title": "Créations visuelles",
         "title1":"Conceptions numérique",
+        "title2":"Création de Sites Vitrines",
+        "title3":"Création de site catalogue",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
+        "description2":"Conception et développement de sites web vitrines sur mesure pour mettre en valeur votre entreprise ou votre projet.",
+        "description3":"Conception et développement de sites web catalogues pour présenter de manière organisée et détaillée vos produits ou services.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -93,8 +97,16 @@
           "wireframes":"Création de wireframes",
           "prototypes":"Création de prototypes interactifs"
         },
+        "features2": {
+          "responsive":"Design moderne et responsive",
+          "integrationcontenu":"Intégration de contenu",
+          "optimisationseo":"Optimisation SEO",
+          "facilitegestion":"Facilité de gestion",
+          "personnalisation":"Personnalisation"
+        },
         "price": "À partir de 4,10€",
-        "price1":"À partir de 20,51€"
+        "price1":"À partir de 20,51€",
+        "price2":"À partir de 102,53€"
       }
     },
     "cta":{

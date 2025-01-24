@@ -68,14 +68,18 @@
     "subtitle": "Vahaolana ara-drafitra ho an'ny filàna rehetra ara-nomerika",
     "categories": {
       "graphique": "Famolavolana sary sy UX/UI",
-      "professional": "Tolotra Ara-drafitra"
+      "professional": "Vahaolana amin'ny tranonkala manokana"
     },
     "items": {
       "mockup": {
         "title": "Famoronana hita maso",
         "title1":"Famolavolana nomerika",
+        "title2":"Famoronana Site Showcase",
+        "title3":"Famoronana tranokala katalaogy",
         "description": "Na amin'ny alalan'ny endrika kanto na sanganasa be pitsiny, dia mitantara tantara tsy manam-paharoa izy ireo, ka mamela marika tsy hay hadinoina ao an-tsain'ny mpijery.",
         "description1":"Ny endrika dizitaly dia manosika ny fetran'ny famoronana amin'ny alàlan'ny fampifangaroana ny teknolojia sy ny estetika mba hamoronana traikefa ifanakalozan-kevitra sy immersive.",
+        "description2":"Famolavolana sy fampivoarana tranokala fampirantiana namboarina mba hanasongadinana ny orinasanao na ny tetikasanao.",
+        "description3":"Mamolavola sy mamolavola tranokala katalaogy mba hanehoana ny vokatrao na ny serivisinao amin'ny fomba voalamina sy amin'ny antsipiriany.",
         "features": {
           "logo": "Famoronana Logo",
           "cartevisite": "Famolavolana karatra fandraharahana",
@@ -93,8 +97,16 @@
           "wireframes":"Famoronana wireframes",
           "prototypes":"Famoronana prototypes interactive"
         },
+        "features2": {
+          "responsive":"Famolavolana maoderina sy mandray andraikitra",
+          "integrationcontenu":"Fampidirana votoaty",
+          "optimisationseo":"SEO Optimization",
+          "facilitegestion":"Mora ny fitantanana",
+          "personnalisation":"Personalization"
+        },
         "price": "Manomboka amin'ny 20 000 Ar",
-        "price1":"Manomboka amin'ny 100 000 Ar"
+        "price1":"Manomboka amin'ny 100 000 Ar",
+        "price2":"Manomboka amin'ny 500 000 Ar"
       }
     },
     "cta":{

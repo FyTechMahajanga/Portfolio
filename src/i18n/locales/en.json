@@ -68,14 +68,18 @@
     "subtitle": "Professional solutions for all your digital needs",
     "categories": {
       "graphique": "Graphic design and UX/UI",
-      "professional": "Professional Services"
+      "professional": "Custom web solutions"
     },
     "items": {
       "mockup": {
         "title": "Visual creations",
         "title1":"Digital designs",
+        "title2":"Creation of Showcase Sites",
+        "title3":"Creation of catalog site",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
+        "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
+        "description3":"Design and development of catalog websites to present your products or services in an organized and detailed manner.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -93,8 +97,16 @@
           "wireframes":"Creation of wireframes",
           "prototypes":"Creation of interactive prototypes"
         },
+        "features2": {
+          "responsive":"Modern and responsive design",
+          "integrationcontenu":"Content integration",
+          "optimisationseo":"SEO Optimization",
+          "facilitegestion":"Ease of management",
+          "personnalisation":"Personalization"
+        },
         "price": "From $4,26",
-        "price1":"From $21,32"
+        "price1":"From $21,32",
+        "price2":"From $106,80"
       }
     },
     "cta":{
