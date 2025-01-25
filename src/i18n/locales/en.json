@@ -71,7 +71,9 @@
       "professional": "Custom web solutions",
       "maintenance":"IT outsourcing and maintenance services",
       "photo":"Services photo Professionnels",
-      "marketing":"Digital Marketing Services"
+      "marketing":"Digital Marketing Services",
+      "reseau":"Network infrastructure services",
+      "design2d":"2D, 3D and UI/UX design solutions"
     },
     "items": {
       "mockup": {
@@ -84,6 +86,8 @@
         "title6":"IT maintenance services",
         "title7":"Photo Services",
         "title8":"Digital Marketing Services",
+        "title9":"Network infrastructure services",
+        "title10":"2D, 3D and UI/UX design",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
@@ -92,7 +96,9 @@
         "description5":"Outsourced management of your IT infrastructure to guarantee performance, security and availability of your systems.",
         "description6":"Assistance and regular maintenance of your IT equipment to guarantee its proper functioning and sustainability.",
         "description7":"Capture the essence of your project with high-quality images, tailored to your professional needs.",
-        "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
+        "description8":"Tailor-made strategies and solutions to boost your online presence and achieve your business goals.",
+        "description9":"Design, deployment and management of efficient and secure network infrastructures to meet the needs of your business.",
+        "description10":"Creating innovative and functional designs to meet your visual and interactive needs.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -159,6 +165,16 @@
           "publiciter":"Online advertising",
           "contenu":"Content Creation"
         },
+        "features9": {
+          "conceptions":"Network design and installation",
+          "reseau":"Network maintenance"
+        },
+        "features10": {
+          "conception2d":"2D design",
+          "modelisation3d":"3D modeling",
+          "rendu3d":"3D rendering and visualization",
+          "designuiux":"UI/UX design"
+        },
         "price": "From $4,26",
         "price1":"From $21,32",
         "price2":"From $106,80",
@@ -167,7 +183,9 @@
         "price5":"From $4,26",
         "price6":"From $4,26",
         "price7":"From $2,13",
-        "price8":"From $4,26"
+        "price8":"From $4,26",
+        "price9":"From $21,32",
+        "price10":"From $10,72"
       }
     },
     "cta":{

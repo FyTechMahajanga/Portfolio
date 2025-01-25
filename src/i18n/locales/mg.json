@@ -71,7 +71,9 @@
       "professional": "Vahaolana amin'ny tranonkala manokana",
       "maintenance":"Serivisy outsourcing sy fikojakojana IT",
       "photo":"Services photo Professionnels",
-      "marketing":"Serivisy Marketing Digital"
+      "marketing":"Serivisy Marketing Digital",
+      "reseau":"Serivisy fotodrafitrasa tambajotra",
+      "design2d":"Vahaolana famolavolana 2D, 3D ary UI/UX"
     },
     "items": {
       "mockup": {
@@ -84,6 +86,8 @@
         "title6":"Serivisy fikojakojana IT",
         "title7":"Serivisy sary",
         "title8":"Serivisy Marketing Digital",
+        "title9":"Serivisy fotodrafitrasa tambajotra",
+        "title10":"Famoronana 2D, 3D sy UX/UI",
         "description": "Na amin'ny alalan'ny endrika kanto na sanganasa be pitsiny, dia mitantara tantara tsy manam-paharoa izy ireo, ka mamela marika tsy hay hadinoina ao an-tsain'ny mpijery.",
         "description1":"Ny endrika dizitaly dia manosika ny fetran'ny famoronana amin'ny alàlan'ny fampifangaroana ny teknolojia sy ny estetika mba hamoronana traikefa ifanakalozan-kevitra sy immersive.",
         "description2":"Famolavolana sy fampivoarana tranokala fampirantiana namboarina mba hanasongadinana ny orinasanao na ny tetikasanao.",
@@ -92,7 +96,9 @@
         "description5":"Fitantanana outsource ny fotodrafitrasa IT-nao mba hiantohana ny fahombiazana, ny fiarovana ary ny fisian'ny rafitrao.",
         "description6":"Fanampiana sy fikojakojana tsy tapaka ny fitaovan'ny IT anao mba hiantohana ny fampandehanana azy sy ny faharetany.",
         "description7":"Alao sary an-tsaina ny votoatin'ny tetikasanao amin'ny sary avo lenta, mifanaraka amin'ny filanao matihanina.",
-        "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
+        "description8":"Paikady sy vahaolana namboarina hanamafisana ny fisianao an-tserasera sy hanatratrarana ny tanjonao amin'ny fandraharahana.",
+        "description9":"Mamolavola, mametraka ary mitantana fotodrafitrasa tambajotra mahomby sy azo antoka mba hanomezana izay ilain'ny orinasanao.",
+        "description10":"Mamorona endrika manavao sy miasa mifanaraka amin'ny filanao hita maso sy ifanakalozan-kevitra.",
         "features": {
           "logo": "Famoronana Logo",
           "cartevisite": "Famolavolana karatra fandraharahana",
@@ -159,6 +165,17 @@
           "publiciter":"Doka an-tserasera",
           "contenu":"Famoronana votoaty"
         },
+        
+        "features9": {
+          "conceptions":"Famolavolana sy fametrahana tambajotra",
+          "reseau":"Fikarakarana tambajotra"
+        },
+        "features10": {
+          "conception2d":"Famolavolana 2D",
+          "modelisation3d":"Modely 3D",
+          "rendu3d":"Fampisehoana 3D sy sary",
+          "designuiux":"Famolavolana UI/UX"
+        },
         "price": "Manomboka amin'ny 20 000 Ar",
         "price1":"Manomboka amin'ny 100 000 Ar",
         "price2":"Manomboka amin'ny 500 000 Ar",
@@ -167,7 +184,9 @@
         "price5":"Manomboka amin'ny 20 000 Ar",
         "price6":"Manomboka amin'ny 20 000 Ar",
         "price7":"Manomboka amin'ny 10 000 Ar",
-        "price8":"Manomboka amin'ny 20 000 Ar"
+        "price8":"Manomboka amin'ny 20 000 Ar",
+        "price9":"Manomboka amin'ny 100 000 Ar",
+        "price10":"Manomboka amin'ny 50 000 Ar"
       }
     },
     "cta":{

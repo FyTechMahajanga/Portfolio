@@ -13,7 +13,7 @@ const Services = () => {
       title: t('services.categories.professional'),
         services: [
           {
-            icon: <Layout className="w-8 h-8" />,
+            icon: <Code className="w-8 h-8" />,
             title: t('services.items.mockup.title2'),
             description: t('services.items.mockup.description2'),
             features: [
@@ -26,7 +26,7 @@ const Services = () => {
             price: t('services.items.mockup.price2')
           },
           {
-            icon: <Layout className="w-8 h-8" />,
+            icon: <Code className="w-8 h-8" />,
             title: t('services.items.mockup.title3'),
             description: t('services.items.mockup.description3'),
             features: [
@@ -40,7 +40,7 @@ const Services = () => {
             price: t('services.items.mockup.price3')
           },
           {
-            icon: <Layout className="w-8 h-8" />,
+            icon: <Code className="w-8 h-8" />,
             title: t('services.items.mockup.title4'),
             description: t('services.items.mockup.description4'),
             features: [
@@ -155,18 +155,34 @@ const Services = () => {
         ]
     },
     {
-      title: t('services.categories.marketing'),
+      title: t('services.categories.reseau'),
         services: [
           {
-            icon: <Megaphone className="w-8 h-8" />,
-            title: t('services.items.mockup.title8'),
-            description: t('services.items.mockup.description8'),
+            icon: <Network className="w-8 h-8" />,
+            title: t('services.items.mockup.title9'),
+            description: t('services.items.mockup.description9'),
             features: [
-              t('services.items.mockup.features8.gestionreseaux'),
-              t('services.items.mockup.features8.publiciter'),
-              t('services.items.mockup.features8.contenu')
+              t('services.items.mockup.features9.conceptions'),
+              t('services.items.mockup.features9.reseau')
             ],
-            price: t('services.items.mockup.price8')
+            price: t('services.items.mockup.price9')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.design2d'),
+        services: [
+          {
+            icon: <Monitor className="w-8 h-8" />,
+            title: t('services.items.mockup.title10'),
+            description: t('services.items.mockup.description10'),
+            features: [
+              t('services.items.mockup.features10.conception2d'),
+              t('services.items.mockup.features10.modelisation3d'),
+              t('services.items.mockup.features10.rendu3d'),
+              t('services.items.mockup.features10.designuiux')
+            ],
+            price: t('services.items.mockup.price10')
           }
         ]
     }

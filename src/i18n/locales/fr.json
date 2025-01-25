@@ -71,7 +71,9 @@
       "professional": "Solutions web personnalisées",
       "maintenance":"Services d'infogérance et de maintenance IT",
       "photo":"Services photo Professionnels",
-      "marketing":"Services de Marketing Digital"
+      "marketing":"Services de Marketing Digital",
+      "reseau":"Services d'infrastructure réseau",
+      "design2d":"Solutions de design 2D, 3D et UI/UX"
     },
     "items": {
       "mockup": {
@@ -84,6 +86,8 @@
         "title6":"Services de maintenance IT",
         "title7":"Services Photos",
         "title8":"Services de marketing digital",
+        "title9":"Services d'infrastructure réseau",
+        "title10":"Design 2D, 3D et UI/UX",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
         "description2":"Conception et développement de sites web vitrines sur mesure pour mettre en valeur votre entreprise ou votre projet.",
@@ -93,6 +97,8 @@
         "description6":"Assistance et entretien régulier de votre parc informatique pour garantir son bon fonctionnement et sa pérennité.",
         "description7":"Capturer l’essence de votre projet grâce à des images de haute qualité, adaptées à vos besoins professionnels.",
         "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
+        "description9":"Conception, déploiement et gestion d’infrastructures réseau performantes et sécurisées pour répondre aux besoins de votre entreprise.",
+        "description10":"Création de designs innovants et fonctionnels pour répondre à vos besoins visuels et interactifs.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -159,6 +165,16 @@
           "publiciter":"Publicité en ligne",
           "contenu":"Création de Contenu"
         },
+        "features9": {
+          "conceptions":"Conception et installation de réseau",
+          "reseau":"Maintenance réseau"
+        },
+        "features10": {
+          "conception2d":"Conception 2D",
+          "modelisation3d":"Modélisation 3D",
+          "rendu3d":"Rendu 3D et visualisation",
+          "designuiux":"Design UI/UX"
+        },
         "price": "À partir de 4,10€",
         "price1":"À partir de 20,51€",
         "price2":"À partir de 102,53€",
@@ -167,7 +183,9 @@
         "price5":"À partir de 4,10€",
         "price6":"À partir de 4,10€",
         "price7":"À partir de 2,04€",
-        "price8":"À partir de 4,10€"
+        "price8":"À partir de 4,10€",
+        "price9":"À partir de 20,51€",
+        "price10":"À partir de 10,21€"
       }
     },
     "cta":{
