@@ -105,11 +105,26 @@ const Home = () => {
     <div className="pt-16">
       {/* Hero Section */}
       <section className="min-h-[90vh] relative flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-primary-600 border to-secondary-600">
-          <div className="absolute inset-0 bg-grid-white/[0.2] bg-[length:20px_20px]" />
+      <div className="absolute inset-0 bg-gradient-to-r from-primary-600 to-secondary-600">
+        <div className="absolute inset-0 bg-grid-white/[0.2] bg-[length:20px_20px]" />
+          <div className="absolute inset-0 flex items-center justify-center">
+            <div className="carousel w-full h-full overflow-hidden relative">
+              <div className="carousel-track flex w-[300%] border border-red-500 h-full">
+                <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-100">
+                  <p>Ad 1</p>
+                </div>
+                <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-50">
+                  <p>Ad 2</p>
+                </div>
+                <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-50">
+                  <p>Ad 3</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
+        <div className="relative max-w-7xl mx-auto px-4 z-[0] sm:px-6 lg:px-8 text-center text-white">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
