@@ -9,41 +9,7 @@ const Services = () => {
   const navigate = useNavigate();
 
   const categories = [
-    {
-      title: t('services.categories.graphique'),
-        services: [
-          {
-            icon: <Layout className="w-8 h-8" />,
-            title: t('services.items.mockup.title'),
-            description: t('services.items.mockup.description'),
-            features: [
-              t('services.items.mockup.features.logo'),
-              t('services.items.mockup.features.cartevisite'),
-              t('services.items.mockup.features.flyer'),
-              t('services.items.mockup.features.affiche'),
-              t('services.items.mockup.features.brochure'),
-              t('services.items.mockup.features.depliant'),
-              t('services.items.mockup.features.bannierepublicitaire'),
-              t('services.items.mockup.features.redactionpublicitaire')
-            ],
-            price: t('services.items.mockup.price')
-          },
-          {
-            icon: <Layout className="w-8 h-8" />,
-            title: t('services.items.mockup.title1'),
-            description: t('services.items.mockup.description1'),
-            features: [
-              t('services.items.mockup.features1.maquettesweb'),
-              t('services.items.mockup.features1.maquettemobile'),
-              t('services.items.mockup.features1.maquettegraphique'),
-              t('services.items.mockup.features1.wireframes'),
-              t('services.items.mockup.features1.prototypes')
-            ],
-            price: t('services.items.mockup.price1')
-          }
-        ]
-    },
-    {
+      {
       title: t('services.categories.professional'),
         services: [
           {
@@ -87,6 +53,40 @@ const Services = () => {
               t('services.items.mockup.features4.evolutivite')
             ],
             price: t('services.items.mockup.price4')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.graphique'),
+        services: [
+          {
+            icon: <Layout className="w-8 h-8" />,
+            title: t('services.items.mockup.title'),
+            description: t('services.items.mockup.description'),
+            features: [
+              t('services.items.mockup.features.logo'),
+              t('services.items.mockup.features.cartevisite'),
+              t('services.items.mockup.features.flyer'),
+              t('services.items.mockup.features.affiche'),
+              t('services.items.mockup.features.brochure'),
+              t('services.items.mockup.features.depliant'),
+              t('services.items.mockup.features.bannierepublicitaire'),
+              t('services.items.mockup.features.redactionpublicitaire')
+            ],
+            price: t('services.items.mockup.price')
+          },
+          {
+            icon: <Layout className="w-8 h-8" />,
+            title: t('services.items.mockup.title1'),
+            description: t('services.items.mockup.description1'),
+            features: [
+              t('services.items.mockup.features1.maquettesweb'),
+              t('services.items.mockup.features1.maquettemobile'),
+              t('services.items.mockup.features1.maquettegraphique'),
+              t('services.items.mockup.features1.wireframes'),
+              t('services.items.mockup.features1.prototypes')
+            ],
+            price: t('services.items.mockup.price1')
           }
         ]
     },
@@ -135,6 +135,38 @@ const Services = () => {
               t('services.items.mockup.features7.restauration')
             ],
             price: t('services.items.mockup.price7')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.marketing'),
+        services: [
+          {
+            icon: <Megaphone className="w-8 h-8" />,
+            title: t('services.items.mockup.title8'),
+            description: t('services.items.mockup.description8'),
+            features: [
+              t('services.items.mockup.features8.gestionreseaux'),
+              t('services.items.mockup.features8.publiciter'),
+              t('services.items.mockup.features8.contenu')
+            ],
+            price: t('services.items.mockup.price8')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.marketing'),
+        services: [
+          {
+            icon: <Megaphone className="w-8 h-8" />,
+            title: t('services.items.mockup.title8'),
+            description: t('services.items.mockup.description8'),
+            features: [
+              t('services.items.mockup.features8.gestionreseaux'),
+              t('services.items.mockup.features8.publiciter'),
+              t('services.items.mockup.features8.contenu')
+            ],
+            price: t('services.items.mockup.price8')
           }
         ]
     }

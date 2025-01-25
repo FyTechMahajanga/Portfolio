@@ -105,7 +105,7 @@ const Home = () => {
     <div className="pt-16">
       {/* Hero Section */}
       <section className="min-h-[90vh] relative flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-primary-600 to-secondary-600">
+        <div className="absolute inset-0 bg-gradient-to-r from-primary-600 border to-secondary-600">
           <div className="absolute inset-0 bg-grid-white/[0.2] bg-[length:20px_20px]" />
         </div>
         

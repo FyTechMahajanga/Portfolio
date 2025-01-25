@@ -70,7 +70,8 @@
       "graphique": "Graphic design and UX/UI",
       "professional": "Custom web solutions",
       "maintenance":"IT outsourcing and maintenance services",
-      "photo":"Services photo Professionnels"
+      "photo":"Services photo Professionnels",
+      "marketing":"Digital Marketing Services"
     },
     "items": {
       "mockup": {
@@ -82,6 +83,7 @@
         "title5":"Outsourcing services",
         "title6":"IT maintenance services",
         "title7":"Photo Services",
+        "title8":"Digital Marketing Services",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
@@ -90,6 +92,7 @@
         "description5":"Outsourced management of your IT infrastructure to guarantee performance, security and availability of your systems.",
         "description6":"Assistance and regular maintenance of your IT equipment to guarantee its proper functioning and sustainability.",
         "description7":"Capture the essence of your project with high-quality images, tailored to your professional needs.",
+        "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -151,6 +154,11 @@
           "mode":"Fashion photography",
           "restauration":"Photo Restoration and Retouching"
         },
+        "features8": {
+          "gestionreseaux":"Social media management",
+          "publiciter":"Online advertising",
+          "contenu":"Content Creation"
+        },
         "price": "From $4,26",
         "price1":"From $21,32",
         "price2":"From $106,80",
@@ -158,7 +166,8 @@
         "price4":"From $156,19",
         "price5":"From $4,26",
         "price6":"From $4,26",
-        "price7":"From $2,13"
+        "price7":"From $2,13",
+        "price8":"From $4,26"
       }
     },
     "cta":{

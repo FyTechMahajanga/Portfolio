@@ -70,7 +70,8 @@
       "graphique": "Conception graphique et UX/UI",
       "professional": "Solutions web personnalisées",
       "maintenance":"Services d'infogérance et de maintenance IT",
-      "photo":"Services photo Professionnels"
+      "photo":"Services photo Professionnels",
+      "marketing":"Services de Marketing Digital"
     },
     "items": {
       "mockup": {
@@ -82,6 +83,7 @@
         "title5":"Services d'infogérance",
         "title6":"Services de maintenance IT",
         "title7":"Services Photos",
+        "title8":"Services de marketing digital",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
         "description2":"Conception et développement de sites web vitrines sur mesure pour mettre en valeur votre entreprise ou votre projet.",
@@ -90,6 +92,7 @@
         "description5":"Gestion externalisée de votre infrastructure informatique pour garantir performance, sécurité et disponibilité de vos systèmes.",
         "description6":"Assistance et entretien régulier de votre parc informatique pour garantir son bon fonctionnement et sa pérennité.",
         "description7":"Capturer l’essence de votre projet grâce à des images de haute qualité, adaptées à vos besoins professionnels.",
+        "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -151,6 +154,11 @@
           "mode":"Photographie de mode",
           "restauration":"Restauration et Retouche photo"
         },
+        "features8": {
+          "gestionreseaux":"Gestion des réseaux sociaux",
+          "publiciter":"Publicité en ligne",
+          "contenu":"Création de Contenu"
+        },
         "price": "À partir de 4,10€",
         "price1":"À partir de 20,51€",
         "price2":"À partir de 102,53€",
@@ -158,7 +166,8 @@
         "price4":"À partir de 149,70€",
         "price5":"À partir de 4,10€",
         "price6":"À partir de 4,10€",
-        "price7":"À partir de 2,04€"
+        "price7":"À partir de 2,04€",
+        "price8":"À partir de 4,10€"
       }
     },
     "cta":{
