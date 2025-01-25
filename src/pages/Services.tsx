@@ -118,6 +118,25 @@ const Services = () => {
             price: t('services.items.mockup.price6')
           }
         ]
+    },
+    {
+      title: t('services.categories.photo'),
+        services: [
+          {
+            icon: <Camera className="w-8 h-8" />,
+            title: t('services.items.mockup.title7'),
+            description: t('services.items.mockup.description7'),
+            features: [
+              t('services.items.mockup.features7.portraits'),
+              t('services.items.mockup.features7.evenementielle'),
+              t('services.items.mockup.features7.commercial'),
+              t('services.items.mockup.features7.immobiliere'),
+              t('services.items.mockup.features7.mode'),
+              t('services.items.mockup.features7.restauration')
+            ],
+            price: t('services.items.mockup.price7')
+          }
+        ]
     }
   ];
 

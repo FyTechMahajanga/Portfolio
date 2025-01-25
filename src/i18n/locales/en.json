@@ -69,7 +69,8 @@
     "categories": {
       "graphique": "Graphic design and UX/UI",
       "professional": "Custom web solutions",
-      "maintenance":"IT outsourcing and maintenance services"
+      "maintenance":"IT outsourcing and maintenance services",
+      "photo":"Services photo Professionnels"
     },
     "items": {
       "mockup": {
@@ -80,6 +81,7 @@
         "title4":"Creation of Custom Websites",
         "title5":"Outsourcing services",
         "title6":"IT maintenance services",
+        "title7":"Photo Services",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
@@ -87,6 +89,7 @@
         "description4":"Development of fully personalized websites, designed to precisely meet your needs and objectives.",
         "description5":"Outsourced management of your IT infrastructure to guarantee performance, security and availability of your systems.",
         "description6":"Assistance and regular maintenance of your IT equipment to guarantee its proper functioning and sustainability.",
+        "description7":"Capture the essence of your project with high-quality images, tailored to your professional needs.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -140,13 +143,22 @@
           "evolutive":"Scalable maintenance",
           "misejour":"Software update"
         },
+        "features7": {
+          "portraits":"Portrait photography",
+          "evenementielle":"Event photography",
+          "commercial":"Commercial photography",
+          "immobiliere":"Real estate photography",
+          "mode":"Fashion photography",
+          "restauration":"Photo Restoration and Retouching"
+        },
         "price": "From $4,26",
         "price1":"From $21,32",
         "price2":"From $106,80",
         "price3":"From $213,60",
         "price4":"From $156,19",
         "price5":"From $4,26",
-        "price6":"From $4,26"
+        "price6":"From $4,26",
+        "price7":"From $2,13"
       }
     },
     "cta":{

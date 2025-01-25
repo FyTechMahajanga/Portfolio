@@ -69,7 +69,8 @@
     "categories": {
       "graphique": "Conception graphique et UX/UI",
       "professional": "Solutions web personnalisées",
-      "maintenance":"Services d'infogérance et de maintenance IT"
+      "maintenance":"Services d'infogérance et de maintenance IT",
+      "photo":"Services photo Professionnels"
     },
     "items": {
       "mockup": {
@@ -80,6 +81,7 @@
         "title4":"Création de Sites Web sur Mesure",
         "title5":"Services d'infogérance",
         "title6":"Services de maintenance IT",
+        "title7":"Services Photos",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
         "description2":"Conception et développement de sites web vitrines sur mesure pour mettre en valeur votre entreprise ou votre projet.",
@@ -87,6 +89,7 @@
         "description4":"Développement de sites web entièrement personnalisés, conçus pour répondre précisément à vos besoins et à vos objectifs.",
         "description5":"Gestion externalisée de votre infrastructure informatique pour garantir performance, sécurité et disponibilité de vos systèmes.",
         "description6":"Assistance et entretien régulier de votre parc informatique pour garantir son bon fonctionnement et sa pérennité.",
+        "description7":"Capturer l’essence de votre projet grâce à des images de haute qualité, adaptées à vos besoins professionnels.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -140,13 +143,22 @@
           "evolutive":"Maintenance évolutive",
           "misejour":"Mise à jour des logiciels"
         },
+        "features7": {
+          "portraits":"Photographie de portraits",
+          "evenementielle":"Photographie événementielle",
+          "commercial":"Photographie commercial",
+          "immobiliere":"Photographie immobilière",
+          "mode":"Photographie de mode",
+          "restauration":"Restauration et Retouche photo"
+        },
         "price": "À partir de 4,10€",
         "price1":"À partir de 20,51€",
         "price2":"À partir de 102,53€",
         "price3":"À partir de 205,07€",
         "price4":"À partir de 149,70€",
         "price5":"À partir de 4,10€",
-        "price6":"À partir de 4,10€"
+        "price6":"À partir de 4,10€",
+        "price7":"À partir de 2,04€"
       }
     },
     "cta":{
