@@ -2,6 +2,9 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import HeroSection from '../components/common/HeroSection';
 import TestimonialCard from '../components/testimonials/TestimonialCard';
+import Mirana from '../assets/mirana.jpg';
+import Nanchia from '../assets/Nachia.jpg';
+import Renty from '../assets/RRenty.jpg';
 
 const Testimonials = () => {
   const { t } = useTranslation();
@@ -14,7 +17,7 @@ const Testimonials = () => {
       role: t('testimonials.quotes.first.role'),
       company: t('testimonials.quotes.first.company'),
       rating: 5,
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=300&h=300"
+      image: `${Mirana}`,
     },
     {
       id: 2,
@@ -22,8 +25,8 @@ const Testimonials = () => {
       author: t('testimonials.quotes.second.author'),
       role: t('testimonials.quotes.second.role'),
       company: t('testimonials.quotes.second.company'),
-      rating: 5,
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=300&h=300"
+      rating: 4,
+      image: `${Nanchia}`,
     },
     {
       id: 3,
@@ -31,8 +34,8 @@ const Testimonials = () => {
       author: t('testimonials.quotes.third.author'),
       role: t('testimonials.quotes.third.role'),
       company: t('testimonials.quotes.third.company'),
-      rating: 5,
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=300&h=300"
+      rating: 3,
+      image: `${Renty}`,
     }
   ];
 
