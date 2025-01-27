@@ -73,7 +73,9 @@
       "photo":"Services photo Professionnels",
       "marketing":"Digital Marketing Services",
       "reseau":"Network infrastructure services",
-      "design2d":"2D, 3D and UI/UX design solutions"
+      "design2d":"2D, 3D and UI/UX design solutions",
+      "developpementjeux":"Game development",
+      "conceptionlogiciel":"Custom software design and programming"
     },
     "items": {
       "mockup": {
@@ -88,6 +90,8 @@
         "title8":"Digital Marketing Services",
         "title9":"Network infrastructure services",
         "title10":"2D, 3D and UI/UX design",
+        "title11":"Game development",
+        "title12":"Custom software design and programming",
         "description": "Whether through sleek designs or intricate compositions, they tell a unique story, leaving a memorable imprint on the viewer's mind.",
         "description1":"Digital designs push the boundaries of creativity by combining technology and aesthetics to create interactive and immersive experiences.",
         "description2":"Design and development of tailor-made showcase websites to highlight your business or project.",
@@ -99,6 +103,8 @@
         "description8":"Tailor-made strategies and solutions to boost your online presence and achieve your business goals.",
         "description9":"Design, deployment and management of efficient and secure network infrastructures to meet the needs of your business.",
         "description10":"Creating innovative and functional designs to meet your visual and interactive needs.",
+        "description11":"Creation of immersive and captivating video games, adapted to all platforms and all audiences.",
+        "description12":"Development of software solutions adapted to your specific needs to optimize your business processes.",
         "features": {
           "logo": "Logo Creation",
           "cartevisite": "Business Card Design",
@@ -175,6 +181,14 @@
           "rendu3d":"3D rendering and visualization",
           "designuiux":"UI/UX design"
         },
+        "features11": {
+          "programmation":"Game development and programming",
+          "designartistique":"Artistic design"
+        },
+        "features12": {
+          "appsimple":"Application simple",
+          "logiciel":"logiciel moyen(ERP, CRM)"
+        },
         "price": "From $4,26",
         "price1":"From $21,32",
         "price2":"From $106,80",
@@ -185,11 +199,15 @@
         "price7":"From $2,13",
         "price8":"From $4,26",
         "price9":"From $21,32",
-        "price10":"From $10,72"
+        "price10":"From $10,72",
+        "price11":"From $32,03",
+        "price12":"From $826,92"
       }
     },
     "cta":{
-      "button":"Contact Us"
+      "button":"Contact Us",
+      "title":"Ready to take your digital presence to the next level?",
+      "subtitle":"Contact us to discuss your project and get a personalized quote."
     }
   },
   "formations": {

@@ -185,6 +185,36 @@ const Services = () => {
             price: t('services.items.mockup.price10')
           }
         ]
+    },
+    {
+      title: t('services.categories.developpementjeux'),
+        services: [
+          {
+            icon: <Box className="w-8 h-8" />,
+            title: t('services.items.mockup.title11'),
+            description: t('services.items.mockup.description11'),
+            features: [
+              t('services.items.mockup.features11.programmation'),
+              t('services.items.mockup.features11.designartistique')
+            ],
+            price: t('services.items.mockup.price11')
+          }
+        ]
+    },
+    {
+      title: t('services.categories.conceptionlogiciel'),
+        services: [
+          {
+            icon: <Monitor className="w-8 h-8" />,
+            title: t('services.items.mockup.title12'),
+            description: t('services.items.mockup.description12'),
+            features: [
+              t('services.items.mockup.features12.appsimple'),
+              t('services.items.mockup.features12.logiciel')
+            ],
+            price: t('services.items.mockup.price12')
+          }
+        ]
     }
   ];
 

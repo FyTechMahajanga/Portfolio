@@ -73,7 +73,9 @@
       "photo":"Services photo Professionnels",
       "marketing":"Services de Marketing Digital",
       "reseau":"Services d'infrastructure réseau",
-      "design2d":"Solutions de design 2D, 3D et UI/UX"
+      "design2d":"Solutions de design 2D, 3D et UI/UX",
+      "developpementjeux":"Développement de jeux vidéo",
+      "conceptionlogiciel":"Conception et programmation de logiciels sur mesure"
     },
     "items": {
       "mockup": {
@@ -88,6 +90,8 @@
         "title8":"Services de marketing digital",
         "title9":"Services d'infrastructure réseau",
         "title10":"Design 2D, 3D et UI/UX",
+        "title11":"Développement de jeux vidéo",
+        "title12":"Conception et programmation de logiciels sur mesure",
         "description": "Que ce soit à travers des designs épurés ou des compositions complexes, elles racontent une histoire unique, laissant une empreinte mémorable dans l'esprit du spectateur.",
         "description1":"Les conceptions numériques repoussent les limites de la créativité en combinant technologie et esthétique pour créer des expériences interactives et immersives.",
         "description2":"Conception et développement de sites web vitrines sur mesure pour mettre en valeur votre entreprise ou votre projet.",
@@ -99,6 +103,8 @@
         "description8":"Stratégies et solutions sur mesure pour booster votre présence en ligne et atteindre vos objectifs commerciaux.",
         "description9":"Conception, déploiement et gestion d’infrastructures réseau performantes et sécurisées pour répondre aux besoins de votre entreprise.",
         "description10":"Création de designs innovants et fonctionnels pour répondre à vos besoins visuels et interactifs.",
+        "description11":"Création de jeux vidéo immersifs et captivants, adaptés à toutes les plateformes et à tous les publics.",
+        "description12":"Développement de solutions logicielles adaptées à vos besoins spécifiques pour optimiser vos processus métier.",
         "features": {
           "logo": "Création de Logos",
           "cartevisite": "Design de Carte de Visite",
@@ -175,6 +181,14 @@
           "rendu3d":"Rendu 3D et visualisation",
           "designuiux":"Design UI/UX"
         },
+        "features11": {
+          "programmation":"Développement et programmation de jeux",
+          "designartistique":"Design artistique"
+        },
+        "features12": {
+          "appsimple":"Application simple",
+          "logiciel":"logiciel moyen(ERP, CRM)"
+        },
         "price": "À partir de 4,10€",
         "price1":"À partir de 20,51€",
         "price2":"À partir de 102,53€",
@@ -185,11 +199,15 @@
         "price7":"À partir de 2,04€",
         "price8":"À partir de 4,10€",
         "price9":"À partir de 20,51€",
-        "price10":"À partir de 10,21€"
+        "price10":"À partir de 10,21€",
+        "price11":"À partir de 30,62€",
+        "price12":"À partir de 790,29€"
       }
     },
     "cta":{
-      "button":"Contactez-nous"
+      "button":"Contactez-nous",
+      "title":"Prêt à démarrer votre projet ?",
+      "subtitle":"Contactez-nous pour discuter de vos besoins et obtenir un devis personnalisé."
     }
   },
   "formations": {
