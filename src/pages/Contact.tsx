@@ -49,7 +49,7 @@ const Contact = () => {
             animate={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-5xl font-bold text-white mb-6"
           >
-            Contactez-nous
+            {t('Contact.contactTitle')}
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -57,7 +57,7 @@ const Contact = () => {
             transition={{ delay: 0.2 }}
             className="text-xl text-gray-100 max-w-3xl mx-auto"
           >
-            {formationData ? 'Inscrivez-vous à notre formation' : 'Nous sommes là pour vous aider'}
+            {formationData ? t('Contact.formationDescription') : t('Contact.contactDescription')}
           </motion.p>
         </div>
       </section>
@@ -74,7 +74,7 @@ const Contact = () => {
             >
               <div className="bg-white dark:bg-gray-800 rounded-xl p-8 shadow-lg">
                 <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                  Nos Coordonnées
+                {t('Contact.ourContact')}
                 </h2>
                 <div className="space-y-6">
                   <div className="flex items-center space-x-4">
@@ -86,13 +86,13 @@ const Contact = () => {
                   <div className="flex items-center space-x-4">
                     <Phone className="w-6 h-6 text-primary-600 dark:text-primary-400" />
                     <span className="text-gray-600 dark:text-gray-300">
-                      +261 34 00 000 00
+                      +261 329719391 / +261 329742598
                     </span>
                   </div>
                   <div className="flex items-center space-x-4">
                     <Mail className="w-6 h-6 text-primary-600 dark:text-primary-400" />
                     <span className="text-gray-600 dark:text-gray-300">
-                      contact@fytech.mg
+                      fytech0823@gmail.com
                     </span>
                   </div>
                 </div>
@@ -101,7 +101,7 @@ const Contact = () => {
               {formationData && (
                 <div className="bg-white dark:bg-gray-800 rounded-xl p-8 shadow-lg">
                   <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                    Formation Sélectionnée
+                  {t('Contact.selectedFormation')}
                   </h2>
                   <div className="space-y-4">
                     <p className="text-lg font-semibold text-primary-600 dark:text-primary-400">
@@ -127,7 +127,7 @@ const Contact = () => {
               <form ref={formRef} onSubmit={handleSubmit} className="space-y-6">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                    Nom complet
+                    {t('Contact.fullName')}
                   </label>
                   <input
                     type="text"
@@ -140,7 +140,7 @@ const Contact = () => {
 
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                    Email
+                    {t('Contact.email')}
                   </label>
                   <input
                     type="email"
@@ -153,7 +153,7 @@ const Contact = () => {
 
                 <div>
                   <label htmlFor="phone" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                    Téléphone
+                    {t('Contact.phone')}
                   </label>
                   <input
                     type="tel"
@@ -166,7 +166,7 @@ const Contact = () => {
 
                 <div>
                   <label htmlFor="subject" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                    Sujet
+                    {t('Contact.subject')}
                   </label>
                   <input
                     type="text"
@@ -180,7 +180,7 @@ const Contact = () => {
 
                 <div>
                   <label htmlFor="message" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                    Message
+                    {t('Contact.message')}
                   </label>
                   <textarea
                     name="message"
@@ -200,12 +200,12 @@ const Contact = () => {
                   {status === 'sending' ? (
                     <>
                       <div className="animate-spin rounded-full h-5 w-5 border-2 border-white border-t-transparent" />
-                      <span>Envoi en cours...</span>
+                      <span>{t('Contact.sending')}</span>
                     </>
                   ) : (
                     <>
                       <Send className="w-5 h-5" />
-                      <span>Envoyer</span>
+                      <span>{t('Contact.send')}</span>
                     </>
                   )}
                 </button>

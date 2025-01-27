@@ -327,5 +327,21 @@
       "email":"fytech0823@gmail.com",
       "hours":"08h30 - 12h30 AM / 14h30 - 18h00 PM (6 / 7) days"
     }
+  },
+  "Contact":{
+    "contactTitle": "Contact Us",
+    "contactDescription": "We are here to help you",
+    "formationDescription": "Sign up for our training",
+    "ourContact": "Our Contact Information",
+    "selectedFormation": "Selected Training",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully!",
+    "errorMessage": "An error occurred. Please try again."
   }
 }

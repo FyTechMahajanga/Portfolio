@@ -328,5 +328,21 @@
       "email":"fytech0823@gmail.com",
       "hours":"08h30 - 12h30 / 14h30 - 18h00 (6 / 7) andro"
     }
+  },
+  "Contact":{
+    "contactTitle": "Mifandraisa Aminay",
+    "contactDescription": "Miaraka aminay ianao hanampy anao",
+    "formationDescription": "Misoratra anarana ho an'ny fianarana",
+    "ourContact": "Ny antsipiriany momba ny fifandraisana",
+    "selectedFormation": "Fianarana voafantina",
+    "fullName": "Anarana feno",
+    "email": "Mailaka",
+    "phone": "Finday",
+    "subject": "Lohateny",
+    "message": "Hafatra",
+    "send": "Alefa",
+    "sending": "Alefa...",
+    "successMessage": "Nalefa soa aman-tsara ny hafatrao!",
+    "errorMessage": "Nisy olana nitranga. Andramo indray azafady."
   }
 }
