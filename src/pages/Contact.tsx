@@ -1,4 +1,6 @@
 import React, { useRef, useState } from 'react';
+import { database } from '../config/firebase';
+import { ref, push } from 'firebase/database';
 import { useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
@@ -27,6 +29,29 @@ const Contact = () => {
         formRef.current,
         '3d0ydsUJs8oCPCtjP'
       );
+      // Store form data in Firebase Realtime Database
+      const formData = new FormData(formRef.current);
+      const data = {
+        name: formData.get('name'),
+        email: formData.get('email'),
+        phone: formData.get('phone'),
+        subject: formData.get('subject'),
+        message: formData.get('message'),
+        formation: formationData ? formationData.formation.title : null,
+        timestamp: new Date().toISOString(),
+      };
+      const dbRef = ref(database, 'contacts');
+      push(dbRef, data)
+      .then(() => {
+        setStatus('success');
+        setMessage(t('Contact.successMessage'));
+        formRef.current?.reset();
+      })
+      .catch((error) => {
+        console.error('Error saving data to Firebase:', error);
+        setStatus('error');
+        setMessage(t('Contact.errorMessage'));
+      });
       setStatus('success');
       setMessage('Votre message a été envoyé avec succès !');
       formRef.current.reset();
