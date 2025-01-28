@@ -68,14 +68,14 @@ export const formations: Formation[] = [
       mg: 'Mahay ny fitsipiky ny design interface sy ny traikefa mpampiasa.'
     },
     duration: {
-      fr: '60 heures',
-      en: '60 hours',
-      mg: '60 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 volana'
     },
     price: {
-      fr: '59,26€',
-      en: '$61,63',
-      mg: '290 500 Ar'
+      fr: '14,81€',
+      en: '$15,45',
+      mg: '72 700 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -112,14 +112,14 @@ export const formations: Formation[] = [
       mg: 'Mianara mamorona design professionnel ho an\'ny printy sy ny nomerika.'
     },
     duration: {
-      fr: '48 heures',
-      en: '48 hours',
-      mg: '48 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '47,42€',
-      en: '$49,33',
-      mg: '232 500 Ar'
+      fr: '11,85€',
+      en: '$12,37',
+      mg: '58 200 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -156,14 +156,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona 3D professionnel ho an\'ny fampidirana.'
     },
     duration: {
-      fr: '48 heures',
-      en: '48 hours',
-      mg: '48 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '65,78€',
-      en: '$68,42',
-      mg: '322 500 Ar'
+      fr: '16,43€',
+      en: '$17,15',
+      mg: '80 700 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -200,14 +200,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona présentation dynamique sy professionnel.'
     },
     duration: {
-      fr: '30 heures',
-      en: '30 hours',
-      mg: '30 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '25,60€',
-      en: '$26,63',
-      mg: '125 500 Ar'
+      fr: '6,41€',
+      en: '$6,69',
+      mg: '31 500 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -244,14 +244,14 @@ export const formations: Formation[] = [
       mg: 'Mahay ny fitsipiky ny fotografi ny nomerika.'
     },
     duration: {
-      fr: '48 heures',
-      en: '48 hours',
-      mg: '48 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '54,87€',
-      en: '$57,07',
-      mg: '269 000 Ar'
+      fr: '13,71€',
+      en: '$14,30',
+      mg: '67 300 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -288,14 +288,14 @@ export const formations: Formation[] = [
       mg: 'Optimize ny fampiharana Microsoft Word.'
     },
     duration: {
-      fr: '24 heures',
-      en: '24 hours',
-      mg: '24 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '19,99€',
-      en: '$20,79',
-      mg: '98 000 Ar'
+      fr: '4,99€',
+      en: '$5,21',
+      mg: '24 500 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -332,14 +332,14 @@ export const formations: Formation[] = [
       mg: 'Mahay ny fonctionnalités avancées Excel.'
     },
     duration: {
-      fr: '35 heures',
-      en: '35 hours',
-      mg: '35 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '35,70€',
-      en: '$37,13',
-      mg: '175 000 Ar'
+      fr: '8,92€',
+      en: '$9,31',
+      mg: '43 800 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -376,14 +376,14 @@ export const formations: Formation[] = [
       mg: 'Mianara ny programmation ho an\'ny Scratch.'
     },
     duration: {
-      fr: '24 heures',
-      en: '24 hours',
-      mg: '24 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '19,99€',
-      en: '$20,79',
-      mg: '98 000 Ar'
+      fr: '4,99€',
+      en: '$5,21',
+      mg: '24 500 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -420,14 +420,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona site web ho an\'ny kodifikasi.'
     },
     duration: {
-      fr: '48 heures',
-      en: '48 hours',
-      mg: '48 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '47,42€',
-      en: '$49,33',
-      mg: '232 500 Ar'
+      fr: '11,85€',
+      en: '$12,35',
+      mg: '58 200 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -464,14 +464,14 @@ export const formations: Formation[] = [
       mg: 'Mahay ny HTML, CSS sy JavaScript.'
     },
     duration: {
-      fr: '96 heures',
-      en: '96 hours',
-      mg: '96 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '132,30€',
-      en: '$137,61',
-      mg: '648 600 Ar'
+      fr: '33,04€',
+      en: '$34,41',
+      mg: '162 200 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -508,14 +508,14 @@ export const formations: Formation[] = [
       mg: 'Mianara ny API sy ny fampiharana bases de données.'
     },
     duration: {
-      fr: '120 heures',
-      en: '120 hours',
-      mg: '120 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '184,15€',
-      en: '$191,54',
-      mg: '902 800 Ar'
+      fr: '45,97€',
+      en: '$47,88',
+      mg: '225 700 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -552,14 +552,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona aplikasi desktop professionnel.'
     },
     duration: {
-      fr: '120 heures',
-      en: '120 hours',
-      mg: '120 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '165,22€',
-      en: '$171,85',
-      mg: '810 000 Ar'
+      fr: '41,25€',
+      en: '$42,96',
+      mg: '202 500 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -596,14 +596,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona jeux vidéo ny an\'ny anao.'
     },
     duration: {
-      fr: '96 heures',
-      en: '96 hours',
-      mg: '96 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '147,27€',
-      en: '$153,18',
-      mg: '722 000 Ar'
+      fr: '36,77€',
+      en: '$38,29',
+      mg: '180 500 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -640,14 +640,14 @@ export const formations: Formation[] = [
       mg: 'Mamorona aplikasi mobile ho an\'ny iOS sy Android.'
     },
     duration: {
-      fr: '96 heures',
-      en: '96 hours',
-      mg: '96 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '132,30€',
-      en: '$137,61',
-      mg: '648 600 Ar'
+      fr: '33,04€',
+      en: '$34,41',
+      mg: '162 200 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -684,14 +684,14 @@ export const formations: Formation[] = [
       mg: 'Mahay ny stratégies marketing en ligne.'
     },
     duration: {
-      fr: '72 heures',
-      en: '72 hours',
-      mg: '72 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '99,24€',
-      en: '$103,22',
-      mg: '486 500 Ar'
+      fr: '24,79€',
+      en: '$25,82',
+      mg: '121 700 Ar'
     },
     buttonname :{
       fr: 'formation',
@@ -728,14 +728,14 @@ export const formations: Formation[] = [
       mg: 'Mianara ny infrastructures réseau.'
     },
     duration: {
-      fr: '72 heures',
-      en: '72 hours',
-      mg: '72 ora'
+      fr: '1 Mois',
+      en: '1 Month',
+      mg: '1 Volana'
     },
     price: {
-      fr: '99,24€',
-      en: '$103,22',
-      mg: '486 500 Ar'
+      fr: '24,79€',
+      en: '$25,82',
+      mg: '121 700 Ar'
     },
     buttonname :{
       fr: 'formation',

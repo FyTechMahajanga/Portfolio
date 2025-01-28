@@ -315,7 +315,7 @@ const Services = () => {
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            className="text-3xl font-bold text-gray-900 dark:text-white mb-6"
+            className="text-3xl font-bold text-white dark:text-white mb-6"
           >
             {t('services.cta.title')}
           </motion.h2>
@@ -323,7 +323,7 @@ const Services = () => {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
-            className="text-xl text-gray-600 dark:text-white mb-8"
+            className="text-xl text-white dark:text-white mb-8"
           >
             {t('services.cta.subtitle')}
           </motion.p>

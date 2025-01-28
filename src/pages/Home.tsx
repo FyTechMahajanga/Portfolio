@@ -93,8 +93,6 @@ const Home = () => {
     },{
       image: './src/assets/juliano.jpg',
     },{
-      image: './src/assets/sitraka.jpg',
-    },{
       image: './src/assets/jess.jpg',
     },{
       image: './src/assets/nado.jpg',
