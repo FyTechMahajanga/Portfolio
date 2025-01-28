@@ -109,15 +109,15 @@ const Home = () => {
         <div className="absolute inset-0 bg-grid-white/[0.2] bg-[length:20px_20px]" />
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="carousel w-full h-full overflow-hidden relative">
-              <div className="carousel-track flex w-[300%] border border-red-500 h-full">
-                <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-100">
-                  <p>Ad 1</p>
+              <div className="carousel-track flex w-[300%] h-full">
+                <div className="carousel-item w-full z-[99] h-full hero1-bg flex items-center justify-center bg-white bg-opacity-100">
+                  
+                </div>
+                <div className="carousel-item w-full z-[99] h-full hero2-bg flex items-center justify-center bg-white bg-opacity-50">
+                  
                 </div>
                 <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-50">
-                  <p>Ad 2</p>
-                </div>
-                <div className="carousel-item w-full z-[99] h-full flex items-center justify-center bg-white bg-opacity-50">
-                  <p>Ad 3</p>
+                  
                 </div>
               </div>
             </div>

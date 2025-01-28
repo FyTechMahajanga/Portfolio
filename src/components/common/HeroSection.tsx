@@ -9,7 +9,7 @@ interface HeroSectionProps {
 const HeroSection: React.FC<HeroSectionProps> = ({ title, subtitle }) => {
   return (
     <section className="relative py-20 overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-r from-primary-600 to-secondary-600">
+      <div className="absolute inset-0 bg-gradient-to-r temoniage from-primary-600 to-secondary-600">
         <div className="absolute inset-0 bg-grid-white/[0.2] bg-[length:20px_20px]" />
       </div>
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
