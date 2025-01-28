@@ -189,19 +189,19 @@
           "appsimple":"Application simple",
           "logiciel":"logiciel moyen(ERP, CRM)"
         },
-        "price": "À partir de 4,10€",
-        "price1":"À partir de 20,51€",
-        "price2":"À partir de 102,53€",
-        "price3":"À partir de 205,07€",
-        "price4":"À partir de 149,70€",
-        "price5":"À partir de 4,10€",
-        "price6":"À partir de 4,10€",
-        "price7":"À partir de 2,04€",
-        "price8":"À partir de 4,10€",
-        "price9":"À partir de 20,51€",
-        "price10":"À partir de 10,21€",
-        "price11":"À partir de 30,62€",
-        "price12":"À partir de 790,29€"
+        "price": "En commençant par 20 000 Ar",
+        "price1":"En commençant par 100 000 Ar",
+        "price2":"En commençant par 500 000 Ar",
+        "price3":"En commençant par 1 000 000 Ar",
+        "price4":"En commençant par 730 000 Ar",
+        "price5":"En commençant par 20 000 Ar",
+        "price6":"En commençant par 20 000 Ar",
+        "price7":"En commençant par 10 000 Ar",
+        "price8":"En commençant par 20 000 Ar",
+        "price9":"En commençant par 100 000 Ar",
+        "price10":"En commençant par 50 000 Ar",
+        "price11":"En commençant par 150 000 Ar",
+        "price12":"En commençant par 3 872 000 Ar"
       }
     },
     "cta":{

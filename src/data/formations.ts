@@ -73,8 +73,8 @@ export const formations: Formation[] = [
       mg: '1 volana'
     },
     price: {
-      fr: '14,81€',
-      en: '$15,45',
+      fr: '72 700 Ar',
+      en: '72 700 Ar',
       mg: '72 700 Ar'
     },
     buttonname :{
@@ -117,8 +117,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '11,85€',
-      en: '$12,37',
+      fr: '58 200 Ar',
+      en: '58 200 Ar',
       mg: '58 200 Ar'
     },
     buttonname :{
@@ -161,8 +161,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '16,43€',
-      en: '$17,15',
+      fr: '80 700 Ar',
+      en: '80 700 Ar',
       mg: '80 700 Ar'
     },
     buttonname :{
@@ -205,8 +205,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '6,41€',
-      en: '$6,69',
+      fr: '31 500 Ar',
+      en: '31 500 Ar',
       mg: '31 500 Ar'
     },
     buttonname :{
@@ -249,8 +249,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '13,71€',
-      en: '$14,30',
+      fr: '67 300 Ar',
+      en: '67 300 Ar',
       mg: '67 300 Ar'
     },
     buttonname :{
@@ -293,8 +293,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '4,99€',
-      en: '$5,21',
+      fr: '24 500 Ar',
+      en: '24 500 Ar',
       mg: '24 500 Ar'
     },
     buttonname :{
@@ -337,8 +337,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '8,92€',
-      en: '$9,31',
+      fr: '43 800 Ar',
+      en: '43 800 Ar',
       mg: '43 800 Ar'
     },
     buttonname :{
@@ -381,8 +381,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '4,99€',
-      en: '$5,21',
+      fr: '24 500 Ar',
+      en: '24 500 Ar',
       mg: '24 500 Ar'
     },
     buttonname :{
@@ -425,8 +425,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '11,85€',
-      en: '$12,35',
+      fr: '58 200 Ar',
+      en: '58 200 Ar',
       mg: '58 200 Ar'
     },
     buttonname :{
@@ -469,8 +469,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '33,04€',
-      en: '$34,41',
+      fr: '162 200 Ar',
+      en: '162 200 Ar',
       mg: '162 200 Ar'
     },
     buttonname :{
@@ -513,8 +513,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '45,97€',
-      en: '$47,88',
+      fr: '225 700 Ar',
+      en: '225 700 Ar',
       mg: '225 700 Ar'
     },
     buttonname :{
@@ -557,8 +557,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '41,25€',
-      en: '$42,96',
+      fr: '202 500 Ar',
+      en: '202 500 Ar',
       mg: '202 500 Ar'
     },
     buttonname :{
@@ -601,8 +601,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '36,77€',
-      en: '$38,29',
+      fr: '180 500 Ar',
+      en: '180 500 Ar',
       mg: '180 500 Ar'
     },
     buttonname :{
@@ -645,8 +645,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '33,04€',
-      en: '$34,41',
+      fr: '162 200 Ar',
+      en: '162 200 Ar',
       mg: '162 200 Ar'
     },
     buttonname :{
@@ -689,8 +689,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '24,79€',
-      en: '$25,82',
+      fr: '121 700 Ar',
+      en: '121 700 Ar',
       mg: '121 700 Ar'
     },
     buttonname :{
@@ -733,8 +733,8 @@ export const formations: Formation[] = [
       mg: '1 Volana'
     },
     price: {
-      fr: '24,79€',
-      en: '$25,82',
+      fr: '121 700 Ar',
+      en: '121 700 Ar',
       mg: '121 700 Ar'
     },
     buttonname :{
