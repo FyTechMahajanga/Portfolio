@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { Menu, X, Moon, Sun, Globe, Code } from 'lucide-react';
 import { useTheme } from '../hooks/useTheme';
 import { motion, AnimatePresence } from 'framer-motion';
+import logo from'../assets/2.png';
 
 const Navigation = () => {
   const { t, i18n } = useTranslation();
@@ -102,7 +103,7 @@ const Navigation = () => {
             </div>
 
             <img 
-              src="./src/assets/2.png" 
+              src={logo} 
               alt="FŸ-TECH Logo" 
               className="w-12 h-12 rounded-full"
             />
